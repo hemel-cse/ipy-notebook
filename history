@@ -1,0 +1,86 @@
+from bs4 import BeautifulSoup
+import urllib
+import machanize
+import mechanize
+import cookielib
+from beautifulSoup import BeautifulSoup
+from BeautifulSoup import BeautifulSoup
+import BeautifulSoup
+from BeautifulSoup import BeautifulSoup
+import html2text
+br = mechanize.Browser()
+cj = cookielib.LWPCookieJar()
+b.set_cookiejar(cj)
+br.set_cookiejar(cj)
+br.set_handle_equiv(True)
+br.set_handle_gzip(True)
+br.set_handle_redirect(True)
+br.set_handle_referer(True)
+br.set_handle_robots(False)
+br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+br.addheaders = [('User-agent', 'Chrome')]
+r.open('https://github.com/login')
+br.open('https://github.com/login')
+for f in br.forms():
+        print f
+br.form['login'] = 'hasibul.amin.hemel@gmail.com'
+for f in br.forms():
+        print f
+for f in br.forms():
+             print f
+br.select_form(nr=1)
+br.select_form(nr=0)
+br.form['login'] = 'hasibul.amin.hemel@gmail.com'
+br.form['password'] = 'iamallalone007'
+br.submit()
+clear
+br.submit()
+print(br.open('https://github.com/settings/emails').read())
+br.open('https://bikroy.com/en/users/login')
+for f in br.forms():
+             print f
+br.form['account'] = 'hasibul.amin.hemel@gmail.com'
+br.form['password'] = 'hemel007'
+br.submit()
+for f in br.forms():
+             print f
+br.select_form(nr=1)
+br.select_form(nr=0)
+br.form['account'] = 'hasibul.amin.hemel@gmail.com'
+br.form['password'] = 'hemel007'
+br.submit()
+print(br.open('https://bikroy.com/en/post-ad/details?type=for_sale&category=375&location=1255').read())
+bik = br.open('https://bikroy.com/en/post-ad/details?type=for_sale&category=375&location=1255').read()
+print (bik)
+soup = BeautifulSoup(bik)
+print type(soup)
+print soup.prettify()
+options = soup.find_all("option", class="ui-select")
+options = soup.find_all("option", class_="ui-select")
+print type(options)
+import mechanize
+import cookielib
+from beautifulSoup import BeautifulSoup
+from BeautifulSoup import BeautifulSoup
+import html2text
+br = mechanize.Browser()
+cj = cookielib.LWPCookieJar()
+br.set_cookiejar(cj)
+br.set_handle_equiv(True)
+br.set_handle_gzip(True)
+br.set_handle_redirect(True)
+br.set_handle_referer(True)
+br.set_handle_robots(False)
+br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+br.addheaders = [('User-agent', 'Chrome')]
+br.open('https://bikroy.com/en/users/login')
+br.select_form(nr=1)
+br.select_form(nr=0)
+br.form['account'] = 'hasibul.amin.hemel@gmail.com'
+br.form['password'] = 'hemel007'
+br.submit()
+bik = br.open('https://bikroy.com/en/post-ad/details?type=for_sale&category=375&location=1255').read()
+print(bik)
+print(bik).prettyfy()
+import readline
+readline.write_history_file('/home/hemel/history')

@@ -1,0 +1,3192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Connect/Base.lproj/Auth.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0Bg-gD-VdM.text">
+        <source>Logged-out</source>
+        <note>Class = "UILabel"; text = "Logged-out"; ObjectID = "0Bg-gD-VdM";</note>
+      </trans-unit>
+      <trans-unit id="0zm-2W-40c.text">
+        <source>880</source>
+        <target>880</target>
+      </trans-unit>
+      <trans-unit id="1NQ-Bw-Rpa.text">
+        <source>Confirm the country code and 
+enter your mobile number</source>
+        <target>দেশের কোড নিশ্চিত করুন এবং মুঠোফোন নম্বর দিন</target>
+        <note>Class = "UILabel"; text = "Confirm the country code and \nenter your mobile number"; ObjectID = "1NQ-Bw-Rpa";</note>
+      </trans-unit>
+      <trans-unit id="1Yk-1d-sRa.text">
+        <source>PASSWORD</source>
+        <note>Class = "UILabel"; text = "PASSWORD"; ObjectID = "1Yk-1d-sRa";</note>
+      </trans-unit>
+      <trans-unit id="1gv-dv-oRu.text">
+        <source>880</source>
+        <target>880</target>
+        <note>Class = "UITextField"; text = "+880"; ObjectID = "1gv-dv-oRu";</note>
+      </trans-unit>
+      <trans-unit id="1mD-la-q9m.normalTitle">
+        <source>LOG IN</source>
+        <target>লগ ইন</target>
+      </trans-unit>
+      <trans-unit id="3de-rs-Cmi.normalTitle">
+        <source>LOG IN</source>
+        <note>Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "3de-rs-Cmi";</note>
+      </trans-unit>
+      <trans-unit id="4Vc-3c-1x7.text">
+        <source>Country</source>
+        <target>দেশ</target>
+      </trans-unit>
+      <trans-unit id="4eN-A5-W24.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="4qs-wO-SdW.text">
+        <source>1234</source>
+        <target>1234</target>
+      </trans-unit>
+      <trans-unit id="5af-Ql-AL6.normalTitle">
+        <source>Bangladesh</source>
+        <target>বাংলাদেশ</target>
+        <note>Class = "UIButton"; normalTitle = "Bangladesh"; ObjectID = "5af-Ql-AL6";</note>
+      </trans-unit>
+      <trans-unit id="5yJ-YW-9QB.text">
+        <source>Country</source>
+        <target>দেশ</target>
+      </trans-unit>
+      <trans-unit id="6j1-Ez-0aw.text">
+        <source>YOUR PHONE</source>
+        <target>মুঠোফোন</target>
+        <note>Class = "UILabel"; text = "YOUR PHONE"; ObjectID = "6j1-Ez-0aw";</note>
+      </trans-unit>
+      <trans-unit id="8p2-tL-56Y.normalTitle">
+        <source>Login with SMS Verification</source>
+        <note>Class = "UIButton"; normalTitle = "Login with SMS Verification"; ObjectID = "8p2-tL-56Y";</note>
+      </trans-unit>
+      <trans-unit id="9Cb-2R-K0i.normalTitle">
+        <source>RESET PASSWORD</source>
+        <target>যাচাইকোড বুঝে নিন</target>
+        <note>Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "9Cb-2R-K0i";</note>
+      </trans-unit>
+      <trans-unit id="64A-h9-FKy.accessibilityLabel">
+        <source>Save_Button</source>
+        <target>Save_Button</target>
+      </trans-unit>
+      <trans-unit id="64A-h9-FKy.normalTitle">
+        <source>Save</source>
+        <target>সংরক্ষণ</target>
+      </trans-unit>
+      <trans-unit id="A3I-6I-AAU.normalTitle">
+        <source>CONTINUE</source>
+        <target>নিবন্ধন</target>
+        <note>Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "A3I-6I-AAU";</note>
+      </trans-unit>
+      <trans-unit id="AAn-dW-MKg.text">
+        <source>1234</source>
+        <target>1234</target>
+      </trans-unit>
+      <trans-unit id="Aci-20-Y5d.text">
+        <source>COUNTRY</source>
+        <target>দেশ</target>
+        <note>Class = "UILabel"; text = "COUNTRY"; ObjectID = "Aci-20-Y5d";</note>
+      </trans-unit>
+      <trans-unit id="AvS-xv-RGq.text">
+        <source>You will get the code in 45 sec</source>
+        <target>45 সেকেন্ডের মধ্যে পিনকোড পেয়ে যাবেন</target>
+        <note>Class = "UILabel"; text = "You will get the code in 45 seconds"; ObjectID = "AvS-xv-RGq";</note>
+      </trans-unit>
+      <trans-unit id="B5z-nj-AgX.normalTitle">
+        <source>SYNC</source>
+        <target>সিঙ্ক</target>
+        <note>Class = "UIButton"; normalTitle = "SYNC"; ObjectID = "B5z-nj-AgX";</note>
+      </trans-unit>
+      <trans-unit id="Brc-x3-Kbu.normalTitle">
+        <source>Bangladesh</source>
+        <note>Class = "UIButton"; normalTitle = "Bangladesh"; ObjectID = "Brc-x3-Kbu";</note>
+      </trans-unit>
+      <trans-unit id="C4t-8S-PMN.text">
+        <source>Email Verification</source>
+        <note>Class = "UILabel"; text = "Email Verification"; ObjectID = "C4t-8S-PMN";</note>
+      </trans-unit>
+      <trans-unit id="DUX-0U-hQ5.normalTitle">
+        <source>or Add Another Account </source>
+        <note>Class = "UIButton"; normalTitle = "or Add Another Account "; ObjectID = "DUX-0U-hQ5";</note>
+      </trans-unit>
+      <trans-unit id="EX9-YX-P4w.segmentTitles[0]">
+        <source>Mobile</source>
+        <note>Class = "UISegmentedControl"; EX9-YX-P4w.segmentTitles[0] = "Mobile"; ObjectID = "EX9-YX-P4w";</note>
+      </trans-unit>
+      <trans-unit id="EX9-YX-P4w.segmentTitles[1]">
+        <source>Email</source>
+        <note>Class = "UISegmentedControl"; EX9-YX-P4w.segmentTitles[1] = "Email"; ObjectID = "EX9-YX-P4w";</note>
+      </trans-unit>
+      <trans-unit id="Ehd-cc-Cln.text">
+        <source>Log in with Email</source>
+        <note>Class = "UILabel"; text = "Log in with Email"; ObjectID = "Ehd-cc-Cln";</note>
+      </trans-unit>
+      <trans-unit id="FAr-Sy-NEJ.text">
+        <source>+8801914105052</source>
+        <note>Class = "UILabel"; text = "+8801914105052"; ObjectID = "FAr-Sy-NEJ";</note>
+      </trans-unit>
+      <trans-unit id="FXS-R1-8fV.text">
+        <source>Add Your Mobile Number</source>
+        <note>Class = "UILabel"; text = "Add Your Mobile Number"; ObjectID = "FXS-R1-8fV";</note>
+      </trans-unit>
+      <trans-unit id="G15-Dd-ZPQ.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "G15-Dd-ZPQ";</note>
+      </trans-unit>
+      <trans-unit id="Gbh-fu-0sj.normalTitle">
+        <source>CONTINUE</source>
+        <note>Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "Gbh-fu-0sj";</note>
+      </trans-unit>
+      <trans-unit id="HDh-3w-HKJ.text">
+        <source>Hello</source>
+        <note>Class = "UILabel"; text = "Hello"; ObjectID = "HDh-3w-HKJ";</note>
+      </trans-unit>
+      <trans-unit id="HRn-GR-QHh.title">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "HRn-GR-QHh";</note>
+      </trans-unit>
+      <trans-unit id="Hh0-DO-4g2.placeholder">
+        <source>Mobile number</source>
+        <target>মুঠোফোন নম্বর</target>
+        <note>Class = "UITextField"; placeholder = "Mobile number"; ObjectID = "Hh0-DO-4g2";</note>
+      </trans-unit>
+      <trans-unit id="I7F-cF-uPF.placeholder">
+        <source>Your Email</source>
+        <note>Class = "UITextField"; placeholder = "Your Email"; ObjectID = "I7F-cF-uPF";</note>
+      </trans-unit>
+      <trans-unit id="ICH-WF-h0u.text">
+        <source>Sync contacts to bring friends onboard</source>
+        <target>বন্ধুদেরকে এখানে আনতে মুঠোফোনের নম্বরগুলো সিঙ্ক করুন</target>
+        <note>Class = "UILabel"; text = "We need your contact to help you to \nfind friends and add if exist "; ObjectID = "ICH-WF-h0u";</note>
+      </trans-unit>
+      <trans-unit id="II4-1H-5xA.text">
+        <source>Password</source>
+        <target>পাসওয়ার্ড</target>
+      </trans-unit>
+      <trans-unit id="IYf-zD-WMk.normalTitle">
+        <source>GO TO EMAIL</source>
+        <note>Class = "UIButton"; normalTitle = "GO TO EMAIL"; ObjectID = "IYf-zD-WMk";</note>
+      </trans-unit>
+      <trans-unit id="JAQ-3s-rx1.placeholder">
+        <source>Profile Name</source>
+        <target>প্রোফাইলের নাম</target>
+        <note>Class = "UITextField"; placeholder = "Your Full Name"; ObjectID = "JAQ-3s-rx1";</note>
+      </trans-unit>
+      <trans-unit id="Jtu-xe-PzB.title">
+        <source>Country</source>
+        <target>দেশ</target>
+      </trans-unit>
+      <trans-unit id="KMe-jP-6Vc.title">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "KMe-jP-6Vc";</note>
+      </trans-unit>
+      <trans-unit id="Kqp-4e-z8A.text">
+        <source>YOUR PHONE</source>
+        <note>Class = "UILabel"; text = "YOUR PHONE"; ObjectID = "Kqp-4e-z8A";</note>
+      </trans-unit>
+      <trans-unit id="LFy-hk-apr.text">
+        <source>+880</source>
+        <note>Class = "UITextField"; text = "+880"; ObjectID = "LFy-hk-apr";</note>
+      </trans-unit>
+      <trans-unit id="LKY-HM-wwv.normalTitle">
+        <source>VERIFY</source>
+        <target>যাচাই</target>
+        <note>Class = "UIButton"; normalTitle = "VERIFY"; ObjectID = "LKY-HM-wwv";</note>
+      </trans-unit>
+      <trans-unit id="M0H-Bz-G7K.placeholder">
+        <source>Password</source>
+        <target>পাসওয়ার্ড</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "M0H-Bz-G7K";</note>
+      </trans-unit>
+      <trans-unit id="MdX-Aq-KvD.placeholder">
+        <source>Confirm password</source>
+        <target>পাসওয়ার্ড নিশ্চিত করুন</target>
+        <note>Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "MdX-Aq-KvD";</note>
+      </trans-unit>
+      <trans-unit id="Mvo-qJ-q5E.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "Mvo-qJ-q5E";</note>
+      </trans-unit>
+      <trans-unit id="N3N-hi-QfK.text">
+        <source>Set New Password</source>
+        <target>পাসওয়ার্ড দিন</target>
+        <note>Class = "UILabel"; text = "Set New Password"; ObjectID = "N3N-hi-QfK";</note>
+      </trans-unit>
+      <trans-unit id="NxO-2E-lRf.text">
+        <source>FULL NAME</source>
+        <target>প্রোফাইলের নাম</target>
+        <note>Class = "UILabel"; text = "FULL NAME"; ObjectID = "NxO-2E-lRf";</note>
+      </trans-unit>
+      <trans-unit id="OYv-2N-iWo.accessibilityLabel">
+        <source>Last_Name_TextField</source>
+        <target>Last_Name_TextField</target>
+      </trans-unit>
+      <trans-unit id="OYv-2N-iWo.placeholder">
+        <source>Surname</source>
+        <target>ডাকনাম</target>
+      </trans-unit>
+      <trans-unit id="P4U-sw-9w3.placeholder">
+        <source>Your Email</source>
+        <note>Class = "UITextField"; placeholder = "Your Email"; ObjectID = "P4U-sw-9w3";</note>
+      </trans-unit>
+      <trans-unit id="PqP-0p-leK.text">
+        <source>You can Log In with your email ID,
+if you have registered with email before</source>
+        <note>Class = "UILabel"; text = "You can Log In with your email ID,\nif you have registered with email before"; ObjectID = "PqP-0p-leK";</note>
+      </trans-unit>
+      <trans-unit id="Q0g-Ka-hTi.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "Q0g-Ka-hTi";</note>
+      </trans-unit>
+      <trans-unit id="QiI-UZ-vOb.normalTitle">
+        <source>Login with Email</source>
+        <note>Class = "UIButton"; normalTitle = "Login with Email"; ObjectID = "QiI-UZ-vOb";</note>
+      </trans-unit>
+      <trans-unit id="RrF-K8-5EP.text">
+        <source>Verification Code</source>
+        <target>যাচাইকোড</target>
+        <note>Class = "UILabel"; text = "Verification Code"; ObjectID = "RrF-K8-5EP";</note>
+      </trans-unit>
+      <trans-unit id="SP0-nJ-aAv.normalTitle">
+        <source>Bangladesh</source>
+        <target>বাংলাদেশ</target>
+      </trans-unit>
+      <trans-unit id="TBO-iB-dd2.text">
+        <source>With your phone number</source>
+        <target>আপনার মুঠোফোন নম্বর দিয়ে</target>
+      </trans-unit>
+      <trans-unit id="URS-6u-7Fw.text">
+        <source>example@example.com</source>
+        <note>Class = "UILabel"; text = "example@example.com"; ObjectID = "URS-6u-7Fw";</note>
+      </trans-unit>
+      <trans-unit id="UXy-uU-pzq.placeholder">
+        <source>Password</source>
+        <target>পাসওয়ার্ড</target>
+      </trans-unit>
+      <trans-unit id="Uix-HC-JvD.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="VWi-aC-BbJ.text">
+        <source>PIN CODE</source>
+        <target>পিন কোড</target>
+        <note>Class = "UILabel"; text = "PIN CODE"; ObjectID = "VWi-aC-BbJ";</note>
+      </trans-unit>
+      <trans-unit id="WIK-md-jHU.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "WIK-md-jHU";</note>
+      </trans-unit>
+      <trans-unit id="WMh-ok-qr8.text">
+        <source>Enter Mobile Number</source>
+        <target>মুঠোফোন নম্বর</target>
+        <note>Class = "UILabel"; text = "Enter Mobile Number"; ObjectID = "WMh-ok-qr8";</note>
+      </trans-unit>
+      <trans-unit id="Xau-H7-ua0.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "Xau-H7-ua0";</note>
+      </trans-unit>
+      <trans-unit id="Xtu-s6-kNl.text">
+        <source>Log In</source>
+        <target>লগ ইন</target>
+      </trans-unit>
+      <trans-unit id="YyM-28-2iI.text">
+        <source>PASSWORD</source>
+        <target>পাসওয়ার্ড</target>
+        <note>Class = "UILabel"; text = "PASSWORD"; ObjectID = "YyM-28-2iI";</note>
+      </trans-unit>
+      <trans-unit id="Z88-Wu-sYV.normalTitle">
+        <source>SAVE PASSWORD</source>
+        <target>পাসওয়ার্ড সংরক্ষণ করুন</target>
+        <note>Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "Z88-Wu-sYV";</note>
+      </trans-unit>
+      <trans-unit id="ZUa-du-LbO.text">
+        <source>Default Profile Creation</source>
+        <target>ডিফল্ট প্রোফাইল তৈরি করুন</target>
+        <note>Class = "UILabel"; text = "Default Profile Creation"; ObjectID = "ZUa-du-LbO";</note>
+      </trans-unit>
+      <trans-unit id="b3G-2c-Mj8.text">
+        <source>Country</source>
+        <target>দেশ</target>
+      </trans-unit>
+      <trans-unit id="bJX-XZ-1R1.text">
+        <source>880</source>
+        <target>৮৮০</target>
+        <note>Class = "UITextField"; text = "+880"; ObjectID = "bJX-XZ-1R1";</note>
+      </trans-unit>
+      <trans-unit id="bdW-MS-dSj.title">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "bdW-MS-dSj";</note>
+      </trans-unit>
+      <trans-unit id="cCg-i9-6lD.text">
+        <source>Linked Accounts</source>
+        <note>Class = "UILabel"; text = "Linked Accounts"; ObjectID = "cCg-i9-6lD";</note>
+      </trans-unit>
+      <trans-unit id="dK5-4Z-Tcz.placeholder">
+        <source>Type your password here</source>
+        <note>Class = "UITextField"; placeholder = "Type your password here"; ObjectID = "dK5-4Z-Tcz";</note>
+      </trans-unit>
+      <trans-unit id="dYI-0p-dBO.text">
+        <source>Do you remember the password you have
+used for +880 1914-105052</source>
+        <note>Class = "UILabel"; text = "Do you remember the password you have\nused for +880 1914-105052"; ObjectID = "dYI-0p-dBO";</note>
+      </trans-unit>
+      <trans-unit id="eCY-bk-hJA.accessibilityLabel">
+        <source>First_Name_TextField</source>
+        <target>First_Name_TextField</target>
+      </trans-unit>
+      <trans-unit id="eCY-bk-hJA.placeholder">
+        <source>First Name</source>
+        <target>নামের প্রথম অংশ</target>
+      </trans-unit>
+      <trans-unit id="eCj-Qk-SRA.text">
+        <source>PASSWORD</source>
+        <note>Class = "UILabel"; text = "PASSWORD"; ObjectID = "eCj-Qk-SRA";</note>
+      </trans-unit>
+      <trans-unit id="eNW-Sq-urr.text">
+        <source>Email verification link has 
+been sent to:</source>
+        <note>Class = "UILabel"; text = "Email verification link has \nbeen sent to:"; ObjectID = "eNW-Sq-urr";</note>
+      </trans-unit>
+      <trans-unit id="f2J-Y1-cFe.accessibilityLabel">
+        <source>Password_TextField</source>
+        <target>Password_TextField</target>
+      </trans-unit>
+      <trans-unit id="f2J-Y1-cFe.placeholder">
+        <source>Password</source>
+        <target>পাসওয়ার্ড</target>
+      </trans-unit>
+      <trans-unit id="fk1-uA-jxg.placeholder">
+        <source>Password</source>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "fk1-uA-jxg";</note>
+      </trans-unit>
+      <trans-unit id="foU-j3-fX9.text">
+        <source>COUNTRY</source>
+        <target>দেশ</target>
+        <note>Class = "UILabel"; text = "COUNTRY"; ObjectID = "foU-j3-fX9";</note>
+      </trans-unit>
+      <trans-unit id="gyZ-VT-cRk.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="hq9-98-Mdb.normalTitle">
+        <source>LOG IN</source>
+        <note>Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "hq9-98-Mdb";</note>
+      </trans-unit>
+      <trans-unit id="iQj-C9-bgj.placeholder">
+        <source>Your Email</source>
+        <note>Class = "UITextField"; placeholder = "Your Email"; ObjectID = "iQj-C9-bgj";</note>
+      </trans-unit>
+      <trans-unit id="jYg-Ue-8xI.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "jYg-Ue-8xI";</note>
+      </trans-unit>
+      <trans-unit id="kpp-QD-faN.text">
+        <source>EMAIL</source>
+        <note>Class = "UILabel"; text = "EMAIL"; ObjectID = "kpp-QD-faN";</note>
+      </trans-unit>
+      <trans-unit id="lWz-fm-qpd.text">
+        <source>COUNTRY</source>
+        <note>Class = "UILabel"; text = "COUNTRY"; ObjectID = "lWz-fm-qpd";</note>
+      </trans-unit>
+      <trans-unit id="lbW-rg-LF8.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "lbW-rg-LF8";</note>
+      </trans-unit>
+      <trans-unit id="lyG-EW-ado.text">
+        <source>EMAIL</source>
+        <note>Class = "UILabel"; text = "EMAIL"; ObjectID = "lyG-EW-ado";</note>
+      </trans-unit>
+      <trans-unit id="mQX-zl-dXD.text">
+        <source>SMS verification code has been sent to:</source>
+        <target>যাচাইকোড পাঠানো হয়েছে:</target>
+        <note>Class = "UILabel"; text = "SMS verification code has been sent to:"; ObjectID = "mQX-zl-dXD";</note>
+      </trans-unit>
+      <trans-unit id="nWM-eb-D20.text">
+        <source>Complete your profifle so that your friends can recognize you</source>
+        <target>প্রোফাইল তৈরি করুন যাতে বন্ধুরা আপনাকে খুঁজে পায়</target>
+        <note>Class = "UILabel"; text = "Complete your profifle so that your friends can recognize you"; ObjectID = "nWM-eb-D20";</note>
+      </trans-unit>
+      <trans-unit id="nxb-ug-YCq.text">
+        <source>Please use at least 8 letter for password strength</source>
+        <target>শক্তিশালী পাসওয়ার্ডের জন্য অন্তত ৮টি অক্ষর ব্যবহার করুন</target>
+        <note>Class = "UILabel"; text = "Please use at least 8 letter for \npassword strength"; ObjectID = "nxb-ug-YCq";</note>
+      </trans-unit>
+      <trans-unit id="o79-gj-iMl.placeholder">
+        <source>Mobile number</source>
+        <target>মুঠোফোন নম্বর</target>
+      </trans-unit>
+      <trans-unit id="ogF-hD-dju.text">
+        <source>Sync Contacts</source>
+        <target>বন্ধুতালিকা সিঙ্ক করুন</target>
+        <note>Class = "UILabel"; text = "Sync Contact"; ObjectID = "ogF-hD-dju";</note>
+      </trans-unit>
+      <trans-unit id="pjZ-1f-1Hu.placeholder">
+        <source>Password</source>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "pjZ-1f-1Hu";</note>
+      </trans-unit>
+      <trans-unit id="pjq-D3-cFE.normalTitle">
+        <source>CREATE PROFILE</source>
+        <target>তৈরি করুন</target>
+        <note>Class = "UIButton"; normalTitle = "CREATE PROFILE"; ObjectID = "pjq-D3-cFE";</note>
+      </trans-unit>
+      <trans-unit id="r1B-aC-a0P.text">
+        <source>Login with Gagagugu</source>
+        <note>Class = "UILabel"; text = "Login with Gagagugu"; ObjectID = "r1B-aC-a0P";</note>
+      </trans-unit>
+      <trans-unit id="rDf-Yw-TEc.text">
+        <source>Please type your mobile number or email address to reset</source>
+        <target>আপনার নিবন্ধিত ফোন নম্বরটি দিন</target>
+        <note>Class = "UILabel"; text = "Please type your mobile number or \nemail address to reset"; ObjectID = "rDf-Yw-TEc";</note>
+      </trans-unit>
+      <trans-unit id="rZf-8R-npc.title">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "rZf-8R-npc";</note>
+      </trans-unit>
+      <trans-unit id="rxr-E3-uH8.title">
+        <source>By signing up, I agree to the Terms of Use</source>
+        <target>নিবন্ধন করার সময় আমি ব্যবহারের শর্তাবলী মেনে নিচ্ছি</target>
+        <note>Class = "UINavigationItem"; title = "Terms of use"; ObjectID = "rxr-E3-uH8";</note>
+      </trans-unit>
+      <trans-unit id="sSK-i0-Wro.normalTitle">
+        <source>Forgot Password?</source>
+        <note>Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "sSK-i0-Wro";</note>
+      </trans-unit>
+      <trans-unit id="sXU-N2-7Om.title">
+        <source>Country</source>
+        <note>Class = "UINavigationItem"; title = "Country"; ObjectID = "sXU-N2-7Om";</note>
+      </trans-unit>
+      <trans-unit id="ti6-ZO-C9E.text">
+        <source>EMAIL (optional)</source>
+        <note>Class = "UILabel"; text = "EMAIL (optional)"; ObjectID = "ti6-ZO-C9E";</note>
+      </trans-unit>
+      <trans-unit id="uUw-fE-AAa.text">
+        <source>Your Phone</source>
+        <target>মুঠোফোন</target>
+      </trans-unit>
+      <trans-unit id="uY4-7g-ZKD.placeholder">
+        <source>Mobile number</source>
+        <note>Class = "UITextField"; placeholder = "Mobile number"; ObjectID = "uY4-7g-ZKD";</note>
+      </trans-unit>
+      <trans-unit id="vbZ-Bt-ALu.text">
+        <source>PASSWORD</source>
+        <note>Class = "UILabel"; text = "PASSWORD"; ObjectID = "vbZ-Bt-ALu";</note>
+      </trans-unit>
+      <trans-unit id="veB-Kv-jF8.text">
+        <source>Forgot Pssword?</source>
+        <target>পাসওয়ার্ড রিসেট করুন</target>
+        <note>Class = "UILabel"; text = "Forgot Pssword?"; ObjectID = "veB-Kv-jF8";</note>
+      </trans-unit>
+      <trans-unit id="vzr-1d-Ddx.normalTitle">
+        <source>Forgot Password?</source>
+        <note>Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "vzr-1d-Ddx";</note>
+      </trans-unit>
+      <trans-unit id="wOt-tr-2GM.text">
+        <source>YOUR PHONE</source>
+        <target>মুঠোফোন</target>
+        <note>Class = "UILabel"; text = "YOUR PHONE"; ObjectID = "wOt-tr-2GM";</note>
+      </trans-unit>
+      <trans-unit id="xBz-G8-vHk.normalTitle">
+        <source>EDIT</source>
+        <note>Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "xBz-G8-vHk";</note>
+      </trans-unit>
+      <trans-unit id="xG6-Hr-fir.text">
+        <source>You are already member of gagagugu.</source>
+        <note>Class = "UILabel"; text = "You are already member of gagagugu."; ObjectID = "xG6-Hr-fir";</note>
+      </trans-unit>
+      <trans-unit id="xXp-6b-iiw.text">
+        <source>Raju</source>
+        <note>Class = "UILabel"; text = "Raju"; ObjectID = "xXp-6b-iiw";</note>
+      </trans-unit>
+      <trans-unit id="xbs-qK-DTw.text">
+        <source>CONFIRM PASSWORD</source>
+        <target>পাসওয়ার্ড নিশ্চিত করুন</target>
+        <note>Class = "UILabel"; text = "CONFIRM PASSWORD"; ObjectID = "xbs-qK-DTw";</note>
+      </trans-unit>
+      <trans-unit id="yqa-kG-eeZ.text">
+        <source>You must enter and confirm country code and your mobile number to proced</source>
+        <note>Class = "UILabel"; text = "You must enter and confirm country code and your mobile number to proced"; ObjectID = "yqa-kG-eeZ";</note>
+      </trans-unit>
+      <trans-unit id="yyU-W4-hCY.normalTitle">
+        <source>Bangladesh</source>
+        <target>বাংলাদেশ</target>
+        <note>Class = "UIButton"; normalTitle = "Bangladesh"; ObjectID = "yyU-W4-hCY";</note>
+      </trans-unit>
+      <trans-unit id="zLQ-87-1ng.text">
+        <source>234234</source>
+        <target>২৩৪২৩৪</target>
+        <note>Class = "UILabel"; text = "+880 1914-105052"; ObjectID = "zLQ-87-1ng";</note>
+      </trans-unit>
+      <trans-unit id="zwa-M3-d1n.placeholder">
+        <source>Mobile number</source>
+        <target>মুঠোফোন নম্বর</target>
+        <note>Class = "UITextField"; placeholder = "Mobile number"; ObjectID = "zwa-M3-d1n";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Base.lproj/Call.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="DVp-up-dEU.text">
+        <source>Mute</source>
+        <target>নি:শব্দ</target>
+        <note>Class = "UILabel"; text = "Mute"; ObjectID = "DVp-up-dEU";</note>
+      </trans-unit>
+      <trans-unit id="DVp-up-dEU.text ">
+        <source>Mute</source>
+      </trans-unit>
+      <trans-unit id="EOZ-Gk-vt2.accessibilityLabel">
+        <source>Call_Reject_Button</source>
+        <target>Call_Reject_Button</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Call_Reject_Button"; ObjectID = "EOZ-Gk-vt2";</note>
+      </trans-unit>
+      <trans-unit id="EOZ-Gk-vt2.accessibilityLabel ">
+        <source>Call_Reject_Button</source>
+      </trans-unit>
+      <trans-unit id="Efo-qd-T3V.text">
+        <source>Accept</source>
+        <target>গ্রহণ</target>
+        <note>Class = "UILabel"; text = "Accept"; ObjectID = "Efo-qd-T3V";</note>
+      </trans-unit>
+      <trans-unit id="Efo-qd-T3V.text ">
+        <source>Accept</source>
+      </trans-unit>
+      <trans-unit id="Ezw-LZ-Lze.text">
+        <source>00:00</source>
+        <target>00:00</target>
+        <note>Class = "UILabel"; text = "00:00"; ObjectID = "Ezw-LZ-Lze";</note>
+      </trans-unit>
+      <trans-unit id="Ezw-LZ-Lze.text ">
+        <source>00:00</source>
+      </trans-unit>
+      <trans-unit id="GBT-YJ-QdW.text">
+        <source>Connecting</source>
+        <target>সংযোগ চলছে...</target>
+        <note>Class = "UILabel"; text = "Connecting"; ObjectID = "GBT-YJ-QdW";</note>
+      </trans-unit>
+      <trans-unit id="GBT-YJ-QdW.text ">
+        <source>Connecting...</source>
+      </trans-unit>
+      <trans-unit id="Gb1-6O-pyc.text">
+        <source>Speaker</source>
+        <target>শব্দ</target>
+        <note>Class = "UILabel"; text = "Speaker"; ObjectID = "Gb1-6O-pyc";</note>
+      </trans-unit>
+      <trans-unit id="Gb1-6O-pyc.text ">
+        <source>Speaker</source>
+      </trans-unit>
+      <trans-unit id="PU6-7o-wkU.text">
+        <source>Caller Full Name</source>
+        <target>কলার-এর পূর্ণ নাম</target>
+        <note>Class = "UILabel"; text = "Caller Full Name"; ObjectID = "PU6-7o-wkU";</note>
+      </trans-unit>
+      <trans-unit id="PU6-7o-wkU.text ">
+        <source>Caller's Full Name</source>
+      </trans-unit>
+      <trans-unit id="PnZ-2N-7TC.text">
+        <source>Message</source>
+        <target>ক্ষুদেবার্তা</target>
+        <note>Class = "UILabel"; text = "Message"; ObjectID = "PnZ-2N-7TC";</note>
+      </trans-unit>
+      <trans-unit id="PnZ-2N-7TC.text ">
+        <source>Message</source>
+      </trans-unit>
+      <trans-unit id="UVE-zx-Rvw.text">
+        <source>Sara Watson</source>
+        <target>সারা ওয়াটসন</target>
+        <note>Class = "UILabel"; text = "Sara Watson"; ObjectID = "UVE-zx-Rvw";</note>
+      </trans-unit>
+      <trans-unit id="UVE-zx-Rvw.text ">
+        <source>Sara Watson</source>
+      </trans-unit>
+      <trans-unit id="ZTX-U9-ZWh.accessibilityLabel">
+        <source>Video_Mode_Button</source>
+        <target>Video_Mode_Button</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Video_Mode_Button"; ObjectID = "ZTX-U9-ZWh";</note>
+      </trans-unit>
+      <trans-unit id="ZTX-U9-ZWh.accessibilityLabel ">
+        <source>Video_Mode_Button</source>
+      </trans-unit>
+      <trans-unit id="lgi-GW-rpT.accessibilityLabel">
+        <source>Call_Accept_Button</source>
+        <target>Call_Accept_Button</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Call_Accept_Button"; ObjectID = "lgi-GW-rpT";</note>
+      </trans-unit>
+      <trans-unit id="lgi-GW-rpT.accessibilityLabel ">
+        <source>Call_Accept_Button</source>
+      </trans-unit>
+      <trans-unit id="uxC-fJ-5Zp.text">
+        <source>Status</source>
+        <target>স্ট্যাটাস</target>
+        <note>Class = "UILabel"; text = "Status"; ObjectID = "uxC-fJ-5Zp";</note>
+      </trans-unit>
+      <trans-unit id="uxC-fJ-5Zp.text ">
+        <source>Status</source>
+      </trans-unit>
+      <trans-unit id="z15-vl-F7C.text">
+        <source>Reject</source>
+        <target>বাতিল</target>
+        <note>Class = "UILabel"; text = "Reject"; ObjectID = "z15-vl-F7C";</note>
+      </trans-unit>
+      <trans-unit id="z15-vl-F7C.text ">
+        <source>Reject</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="Connect/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0J6-Jb-bMc.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "0J6-Jb-bMc";</note>
+      </trans-unit>
+      <trans-unit id="0iN-Ds-WMb.text">
+        <source>Gallery</source>
+        <target>গ্যালারি</target>
+        <note>Class = "UILabel"; text = "Gallery"; ObjectID = "0iN-Ds-WMb";</note>
+      </trans-unit>
+      <trans-unit id="0yu-9r-rAu.title">
+        <source>Back</source>
+        <target>ব্যাক</target>
+        <note>Class = "UIBarButtonItem"; title = "Back"; ObjectID = "0yu-9r-rAu";</note>
+      </trans-unit>
+      <trans-unit id="2rf-Je-ZVc.text">
+        <source>Missed call (10)</source>
+        <target>মিস্‌ড কল</target>
+      </trans-unit>
+      <trans-unit id="4NH-TX-W86.title">
+        <source>Cancel</source>
+        <target>বাতিল</target>
+        <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "4NH-TX-W86";</note>
+      </trans-unit>
+      <trans-unit id="5it-fM-5Br.accessibilityLabel">
+        <source>Edit_Button</source>
+        <target>Edit_Button</target>
+      </trans-unit>
+      <trans-unit id="5lZ-k9-6zr.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="6TV-Hz-LNl.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "6TV-Hz-LNl";</note>
+      </trans-unit>
+      <trans-unit id="7Y4-lU-97Y.text">
+        <source>Missed Call</source>
+        <target>মিস্‌ড কল</target>
+        <note>Class = "UILabel"; text = "Missed Call"; ObjectID = "7Y4-lU-97Y";</note>
+      </trans-unit>
+      <trans-unit id="9DB-e6-6xh.title">
+        <source>Group Member List</source>
+        <target>দলের সব সদস্যের তালিকা</target>
+        <note>Class = "UINavigationItem"; title = "Group Member List"; ObjectID = "9DB-e6-6xh";</note>
+      </trans-unit>
+      <trans-unit id="9Qk-67-ge5.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "9Qk-67-ge5";</note>
+      </trans-unit>
+      <trans-unit id="9iY-kJ-kdS.title">
+        <source>Invite Friends</source>
+        <target>বন্ধুদের আমন্ত্রণ জানান</target>
+        <note>Class = "UINavigationItem"; title = "Invite Friends"; ObjectID = "9iY-kJ-kdS";</note>
+      </trans-unit>
+      <trans-unit id="17B-5X-OTD.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "17B-5X-OTD";</note>
+      </trans-unit>
+      <trans-unit id="ASy-71-cO2.segmentTitles[0]">
+        <source>Friends</source>
+        <target>বন্ধুরা</target>
+        <note>Class = "UISegmentedControl"; ASy-71-cO2.segmentTitles[0] = "Friends"; ObjectID = "ASy-71-cO2";</note>
+      </trans-unit>
+      <trans-unit id="ASy-71-cO2.segmentTitles[1]">
+        <source>Invite</source>
+        <target>আমন্ত্রণ</target>
+        <note>Class = "UISegmentedControl"; ASy-71-cO2.segmentTitles[1] = "Invite"; ObjectID = "ASy-71-cO2";</note>
+      </trans-unit>
+      <trans-unit id="Af7-3F-Kch.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+      </trans-unit>
+      <trans-unit id="Big-hJ-NJ4.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Big-hJ-NJ4";</note>
+      </trans-unit>
+      <trans-unit id="C5b-8F-8UZ.normalTitle">
+        <source>Edit</source>
+        <target>সম্পাদনা</target>
+        <note>Class = "UIButton"; normalTitle = "Edit"; ObjectID = "C5b-8F-8UZ";</note>
+      </trans-unit>
+      <trans-unit id="Cki-lU-GZM.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Cki-lU-GZM";</note>
+      </trans-unit>
+      <trans-unit id="DYx-jc-3ew.accessibilityLabel">
+        <source>Current_Location_Button</source>
+        <target>Current_Location_Button</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Current_Location_Button"; ObjectID = "DYx-jc-3ew";</note>
+      </trans-unit>
+      <trans-unit id="F8U-r7-CA0.text">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="G5G-Y6-2dh.segmentTitles[0]">
+        <source>All</source>
+        <note>Class = "UISegmentedControl"; G5G-Y6-2dh.segmentTitles[0] = "All"; ObjectID = "G5G-Y6-2dh";</note>
+      </trans-unit>
+      <trans-unit id="G5G-Y6-2dh.segmentTitles[1]">
+        <source>Group</source>
+        <note>Class = "UISegmentedControl"; G5G-Y6-2dh.segmentTitles[1] = "Group"; ObjectID = "G5G-Y6-2dh";</note>
+      </trans-unit>
+      <trans-unit id="GU5-vS-Ba7.title">
+        <source>New Message</source>
+        <target>নতুন বার্তা</target>
+        <note>Class = "UINavigationItem"; title = "New Message"; ObjectID = "GU5-vS-Ba7";</note>
+      </trans-unit>
+      <trans-unit id="HTC-oT-emm.accessibilityLabel">
+        <source>Checkbox_Button</source>
+        <target>Checkbox_Button</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Checkbox_Button"; ObjectID = "HTC-oT-emm";</note>
+      </trans-unit>
+      <trans-unit id="IFS-jT-tRQ.text">
+        <source>1000000</source>
+        <target>1000000</target>
+      </trans-unit>
+      <trans-unit id="ILK-QO-oTa.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "ILK-QO-oTa";</note>
+      </trans-unit>
+      <trans-unit id="IpI-8q-0VT.title">
+        <source>New Message</source>
+        <target>নতুন বার্তা</target>
+        <note>Class = "UINavigationItem"; title = "New Message"; ObjectID = "IpI-8q-0VT";</note>
+      </trans-unit>
+      <trans-unit id="Iyt-sM-GQO.text">
+        <source>Brush Size</source>
+        <note>Class = "UILabel"; text = "Brush Size"; ObjectID = "Iyt-sM-GQO";</note>
+      </trans-unit>
+      <trans-unit id="KBy-bx-D9o.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="MZz-Xx-0b0.text">
+        <source>Title</source>
+        <target>টাইটেল</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "MZz-Xx-0b0";</note>
+      </trans-unit>
+      <trans-unit id="NYB-ln-oNr.title">
+        <source>Cancel</source>
+        <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "NYB-ln-oNr";</note>
+      </trans-unit>
+      <trans-unit id="Nlz-f4-3zk.title">
+        <source>Send</source>
+        <note>Class = "UIBarButtonItem"; title = "Send"; ObjectID = "Nlz-f4-3zk";</note>
+      </trans-unit>
+      <trans-unit id="NyT-4h-ZON.text">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="OLh-48-cA7.text">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "OLh-48-cA7";</note>
+      </trans-unit>
+      <trans-unit id="P5q-dv-Q2P.title">
+        <source>Done</source>
+        <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "P5q-dv-Q2P";</note>
+      </trans-unit>
+      <trans-unit id="Qj8-yD-xqB.text">
+        <source>Free audio call</source>
+        <target>ফ্রি অডিও কল</target>
+        <note>Class = "UILabel"; text = "Free audio call"; ObjectID = "Qj8-yD-xqB";</note>
+      </trans-unit>
+      <trans-unit id="Scp-2U-Oeq.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Scp-2U-Oeq";</note>
+      </trans-unit>
+      <trans-unit id="U2R-P3-nix.title">
+        <source>Profile Settings</source>
+        <target>প্রোফাইল সেটিংস</target>
+        <note>Class = "UINavigationItem"; title = "Profile Settings"; ObjectID = "U2R-P3-nix";</note>
+      </trans-unit>
+      <trans-unit id="Uiq-A6-ou1.placeholder">
+        <source> </source>
+        <note>Class = "UITextField"; placeholder = " "; ObjectID = "Uiq-A6-ou1";</note>
+      </trans-unit>
+      <trans-unit id="Uiq-A6-ou1.text">
+        <source>Demo text</source>
+        <note>Class = "UITextField"; text = "Demo text"; ObjectID = "Uiq-A6-ou1";</note>
+      </trans-unit>
+      <trans-unit id="WYG-6R-EyH.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "WYG-6R-EyH";</note>
+      </trans-unit>
+      <trans-unit id="Wbk-eA-LBS.title">
+        <source>Game Zone</source>
+        <note>Class = "UINavigationItem"; title = "Game Zone"; ObjectID = "Wbk-eA-LBS";</note>
+      </trans-unit>
+      <trans-unit id="XAC-11-nV9.text">
+        <source>Emma Watson</source>
+        <target>Emma Watson</target>
+        <note>Class = "UILabel"; text = "Emma Watson"; ObjectID = "XAC-11-nV9";</note>
+      </trans-unit>
+      <trans-unit id="ZSV-nb-3qh.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "ZSV-nb-3qh";</note>
+      </trans-unit>
+      <trans-unit id="Zh4-nd-o8X.text">
+        <source>v.1.0.1</source>
+        <target>ভ.১.০.১</target>
+      </trans-unit>
+      <trans-unit id="aXr-VU-iQg.normalTitle">
+        <source>Invite</source>
+        <target>আমন্ত্রণ </target>
+        <note>Class = "UIButton"; normalTitle = "Invite"; ObjectID = "aXr-VU-iQg";</note>
+      </trans-unit>
+      <trans-unit id="afq-Ap-6U9.title">
+        <source>Location</source>
+        <target>অবস্থান</target>
+        <note>Class = "UINavigationItem"; title = "Location"; ObjectID = "afq-Ap-6U9";</note>
+      </trans-unit>
+      <trans-unit id="aqF-KJ-4X8.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+      </trans-unit>
+      <trans-unit id="bUe-1j-xpR.title">
+        <source>Edit</source>
+        <note>Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "bUe-1j-xpR";</note>
+      </trans-unit>
+      <trans-unit id="bkg-9q-Hj9.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+      </trans-unit>
+      <trans-unit id="cO9-oz-jLT.text">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="cbr-rV-zQo.accessibilityLabel">
+        <source>User_Profile_ImageView</source>
+        <target>User_Profile_ImageView</target>
+      </trans-unit>
+      <trans-unit id="ea7-FE-UXW.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ea7-FE-UXW";</note>
+      </trans-unit>
+      <trans-unit id="eeg-AM-ymU.text">
+        <source>Current Location</source>
+        <target>অবস্থান</target>
+        <note>Class = "UILabel"; text = "Current Location"; ObjectID = "eeg-AM-ymU";</note>
+      </trans-unit>
+      <trans-unit id="eo8-4o-OOY.title">
+        <source>Send</source>
+        <note>Class = "UIBarButtonItem"; title = "Send"; ObjectID = "eo8-4o-OOY";</note>
+      </trans-unit>
+      <trans-unit id="fNB-hC-66v.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "fNB-hC-66v";</note>
+      </trans-unit>
+      <trans-unit id="fmV-5J-CoR.text">
+        <source>ONLINE</source>
+        <target>অনলাইন</target>
+      </trans-unit>
+      <trans-unit id="foz-es-rm5.normalTitle">
+        <source>Reset</source>
+        <note>Class = "UIButton"; normalTitle = "Reset"; ObjectID = "foz-es-rm5";</note>
+      </trans-unit>
+      <trans-unit id="gJP-uc-TGK.segmentTitles[0]">
+        <source>All</source>
+        <target>সব</target>
+        <note>Class = "UISegmentedControl"; gJP-uc-TGK.segmentTitles[0] = "All"; ObjectID = "gJP-uc-TGK";</note>
+      </trans-unit>
+      <trans-unit id="gJP-uc-TGK.segmentTitles[1]">
+        <source>Missed</source>
+        <target>মিস্‌ড কল</target>
+        <note>Class = "UISegmentedControl"; gJP-uc-TGK.segmentTitles[1] = "Missed"; ObjectID = "gJP-uc-TGK";</note>
+      </trans-unit>
+      <trans-unit id="gUO-VY-ZwU.segmentTitles[0]">
+        <source>All</source>
+        <target>সব</target>
+        <note>Class = "UISegmentedControl"; gUO-VY-ZwU.segmentTitles[0] = "All"; ObjectID = "gUO-VY-ZwU";</note>
+      </trans-unit>
+      <trans-unit id="gUO-VY-ZwU.segmentTitles[1]">
+        <source>Group</source>
+        <target>দলীয়</target>
+        <note>Class = "UISegmentedControl"; gUO-VY-ZwU.segmentTitles[1] = "Group"; ObjectID = "gUO-VY-ZwU";</note>
+      </trans-unit>
+      <trans-unit id="h1N-U1-MMg.title">
+        <source>Send</source>
+        <target>পাঠান</target>
+        <note>Class = "UIBarButtonItem"; title = "Send"; ObjectID = "h1N-U1-MMg";</note>
+      </trans-unit>
+      <trans-unit id="hhf-xH-qBB.text">
+        <source>Primary Profile</source>
+        <target>মূল প্রোফাইল (GagaGugu)</target>
+        <note>Class = "UILabel"; text = "Primary Profile"; ObjectID = "hhf-xH-qBB";</note>
+      </trans-unit>
+      <trans-unit id="iFq-gb-6OR.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "iFq-gb-6OR";</note>
+      </trans-unit>
+      <trans-unit id="jIW-vA-vRJ.title">
+        <source>Edit Message</source>
+        <note>Class = "UINavigationItem"; title = "Edit Message"; ObjectID = "jIW-vA-vRJ";</note>
+      </trans-unit>
+      <trans-unit id="jLS-OY-xKF.accessibilityLabel">
+        <source>Update_Profile_Button</source>
+        <target>Update_Profile_Button</target>
+      </trans-unit>
+      <trans-unit id="jde-sR-P3S.text">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="jed-gn-jBF.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "jed-gn-jBF";</note>
+      </trans-unit>
+      <trans-unit id="l9J-mM-YVS.text">
+        <source>Missed Call</source>
+        <note>Class = "UILabel"; text = "Missed Call"; ObjectID = "l9J-mM-YVS";</note>
+      </trans-unit>
+      <trans-unit id="moo-8o-EhD.text">
+        <source>10:00 PM</source>
+        <target>0.9166666666666666</target>
+        <note>Class = "UILabel"; text = "10:00 PM"; ObjectID = "moo-8o-EhD";</note>
+      </trans-unit>
+      <trans-unit id="oQP-X5-4ni.text">
+        <source>12:30 PM</source>
+        <target>0.5208333333333334</target>
+      </trans-unit>
+      <trans-unit id="qqi-la-BR8.text">
+        <source>To:</source>
+        <target>প্রতি:</target>
+        <note>Class = "UILabel"; text = "To:"; ObjectID = "qqi-la-BR8";</note>
+      </trans-unit>
+      <trans-unit id="rE8-xN-clA.title">
+        <source>Edit</source>
+        <target>সম্পাদনা</target>
+      </trans-unit>
+      <trans-unit id="rJO-Ra-yQC.text">
+        <source>To:</source>
+        <target>প্রতি:</target>
+        <note>Class = "UILabel"; text = "To:"; ObjectID = "rJO-Ra-yQC";</note>
+      </trans-unit>
+      <trans-unit id="rMR-tM-ckW.title">
+        <source>Clear</source>
+        <target>মুছুন</target>
+      </trans-unit>
+      <trans-unit id="ujA-8w-YWM.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "ujA-8w-YWM";</note>
+      </trans-unit>
+      <trans-unit id="wZo-7S-6DJ.title">
+        <source>Reload</source>
+        <note>Class = "UIBarButtonItem"; title = "Reload"; ObjectID = "wZo-7S-6DJ";</note>
+      </trans-unit>
+      <trans-unit id="xX4-jG-R3y.title">
+        <source>Done</source>
+        <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "xX4-jG-R3y";</note>
+      </trans-unit>
+      <trans-unit id="xbq-4A-Ktq.text">
+        <source>Connect</source>
+        <target>কানেক্ট</target>
+        <note>Class = "UILabel"; text = "Connect"; ObjectID = "xbq-4A-Ktq";</note>
+      </trans-unit>
+      <trans-unit id="ygu-nj-H0o.title">
+        <source>Title</source>
+        <note>Class = "UINavigationItem"; title = "Title"; ObjectID = "ygu-nj-H0o";</note>
+      </trans-unit>
+      <trans-unit id="zgB-fa-V1q.title">
+        <source>Settings</source>
+        <target>সেটিংস</target>
+        <note>Class = "UITabBarItem"; title = "Settings"; ObjectID = "zgB-fa-V1q";</note>
+      </trans-unit>
+      <trans-unit id="zrx-U3-QbL.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "zrx-U3-QbL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Base.lproj/Profile.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="1br-AM-p0H.normalTitle">
+        <source>UPDATE PROFILE</source>
+        <target>প্রোফাইল আপডেট করুন</target>
+      </trans-unit>
+      <trans-unit id="1hI-QT-MIF.accessibilityLabel">
+        <source>Email_TextField</source>
+        <target>Email_TextField</target>
+      </trans-unit>
+      <trans-unit id="1hI-QT-MIF.placeholder">
+        <source>Email</source>
+        <target>ইমেইল</target>
+      </trans-unit>
+      <trans-unit id="2fm-Nx-JsC.text">
+        <source>DATE OF BIRTH</source>
+        <target>জন্মতারিখ</target>
+      </trans-unit>
+      <trans-unit id="5Dj-NV-zP5.title">
+        <source>Done</source>
+        <note>Class = "UIBarButtonItem"; title = "Done"; ObjectID = "5Dj-NV-zP5";</note>
+      </trans-unit>
+      <trans-unit id="8ir-e3-UyM.accessibilityLabel">
+        <source>Video_Call_Button</source>
+        <target>Video_Call_Button</target>
+      </trans-unit>
+      <trans-unit id="479-9D-I6X.normalTitle">
+        <source>Edit</source>
+        <target>সম্পাদনা</target>
+        <note>Class = "UIButton"; normalTitle = "Edit"; ObjectID = "479-9D-I6X";</note>
+      </trans-unit>
+      <trans-unit id="A5L-FS-b5n.accessibilityLabel">
+        <source>Add_Contactl_Button</source>
+        <target>Add_Contactl_Button</target>
+      </trans-unit>
+      <trans-unit id="A5L-FS-b5n.normalTitle">
+        <source>ADD TO CONTACT</source>
+        <target>বন্ধুতালিকায় যোগ করুন</target>
+      </trans-unit>
+      <trans-unit id="DRH-Ut-RWf.text">
+        <source>LOCATION</source>
+        <target>অবস্থান</target>
+        <note>Class = "UILabel"; text = "LOCATION"; ObjectID = "DRH-Ut-RWf";</note>
+      </trans-unit>
+      <trans-unit id="Djn-PD-cCs.accessibilityLabel">
+        <source>First_Name_TextField</source>
+        <target>First_Name_TextField</target>
+      </trans-unit>
+      <trans-unit id="Djn-PD-cCs.placeholder">
+        <source>Last Name</source>
+        <target>নামের শেষ অংশ </target>
+      </trans-unit>
+      <trans-unit id="EMo-5e-q3z.text">
+        <source>0/170</source>
+        <target>০/১৭০</target>
+        <note>Class = "UILabel"; text = "0/170"; ObjectID = "EMo-5e-q3z";</note>
+      </trans-unit>
+      <trans-unit id="G6G-xy-vBD.accessibilityLabel">
+        <source>Profile_Color_Button_4</source>
+        <target>Profile_Color_Button_4</target>
+      </trans-unit>
+      <trans-unit id="ILF-Yy-xih.accessibilityLabel">
+        <source>Chat_Button</source>
+        <target>Chat_Button</target>
+      </trans-unit>
+      <trans-unit id="JUh-ek-oA9.text">
+        <source>Username</source>
+        <target>ব্যবহারকারীর নাম</target>
+      </trans-unit>
+      <trans-unit id="K8Z-lU-aZp.accessibilityLabel">
+        <source>Profile_Color_Button_1</source>
+        <target>Profile_Color_Button_1</target>
+      </trans-unit>
+      <trans-unit id="KnJ-gU-q2j.accessibilityLabel">
+        <source>Email_TextField</source>
+        <target>Email_TextField</target>
+      </trans-unit>
+      <trans-unit id="KnJ-gU-q2j.placeholder">
+        <source>Email</source>
+        <target>ইমেইল</target>
+      </trans-unit>
+      <trans-unit id="LMa-cD-isI.text">
+        <source>Location</source>
+        <target>অবস্থান</target>
+      </trans-unit>
+      <trans-unit id="LwY-6F-HGt.accessibilityLabel">
+        <source>Profile_Color_Button_5</source>
+        <target>Profile_Color_Button_5</target>
+      </trans-unit>
+      <trans-unit id="MQV-F1-s6h.accessibilityLabel">
+        <source>Profile_Color_Button_5</source>
+        <target>Profile_Color_Button_5</target>
+      </trans-unit>
+      <trans-unit id="MrD-sB-PbA.text">
+        <source>Dhaka, Bangladesh</source>
+        <target>ঢাকা, বাংলাদেশ</target>
+        <note>Class = "UILabel"; text = "Dhaka, Bangladesh"; ObjectID = "MrD-sB-PbA";</note>
+      </trans-unit>
+      <trans-unit id="N3F-y9-4Qv.accessibilityLabel">
+        <source>First_Name_TextField</source>
+        <target>First_Name_TextField</target>
+      </trans-unit>
+      <trans-unit id="N3F-y9-4Qv.placeholder">
+        <source>First Name</source>
+        <target>নামের প্রথম অংশ</target>
+      </trans-unit>
+      <trans-unit id="OKw-Dj-6oV.text">
+        <source>Free Audio Call</source>
+        <target>ফ্রি অডিও কল</target>
+        <note>Class = "UILabel"; text = "Free audio call"; ObjectID = "OKw-Dj-6oV";</note>
+      </trans-unit>
+      <trans-unit id="OTx-XT-gWV.accessibilityLabel">
+        <source>Phone_TextField</source>
+        <target>Phone_TextField</target>
+      </trans-unit>
+      <trans-unit id="OTx-XT-gWV.placeholder">
+        <source>Phone</source>
+        <target>মুঠোফোন</target>
+      </trans-unit>
+      <trans-unit id="Obo-IF-h88.title">
+        <source>My Bio</source>
+        <target>নিজের সম্পর্কে</target>
+        <note>Class = "UINavigationItem"; title = "My Bio"; ObjectID = "Obo-IF-h88";</note>
+      </trans-unit>
+      <trans-unit id="Ppa-ZB-Bxh.normalTitle">
+        <source>Cellular call</source>
+        <target>মুঠোফোন কল</target>
+        <note>Class = "UIButton"; normalTitle = "Cellular call"; ObjectID = "Ppa-ZB-Bxh";</note>
+      </trans-unit>
+      <trans-unit id="QUx-tN-Fd9.title">
+        <source>Cancel</source>
+        <note>Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "QUx-tN-Fd9";</note>
+      </trans-unit>
+      <trans-unit id="QaU-TJ-HWY.text">
+        <source>PROFILE COLOR</source>
+        <target>প্রোফাইল রঙ</target>
+      </trans-unit>
+      <trans-unit id="Rbd-c5-g3C.text">
+        <source>Title</source>
+        <target>টাইটেল</target>
+      </trans-unit>
+      <trans-unit id="SC2-UU-O81.text">
+        <source>SEARCHABLE</source>
+        <target>অনুসন্ধানে দেখান</target>
+      </trans-unit>
+      <trans-unit id="SmR-D0-epk.text">
+        <source>PROFILE INFO</source>
+        <target>প্রোফাইলের তথ্য</target>
+      </trans-unit>
+      <trans-unit id="Tzt-3k-j0E.text">
+        <source>PROFILE INFO</source>
+        <target>প্রোফাইলের তথ্য</target>
+      </trans-unit>
+      <trans-unit id="Ulq-Bd-jLT.normalTitle">
+        <source>+880</source>
+        <target>৮৮০</target>
+      </trans-unit>
+      <trans-unit id="VPw-xc-rEt.placeholder">
+        <source>Select Date of Birth</source>
+        <target>জন্মতারিখ চিহ্নিত করুন</target>
+      </trans-unit>
+      <trans-unit id="Vs3-Am-mXE.title">
+        <source>Edit</source>
+        <target>সম্পাদনা</target>
+        <note>Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "Vs3-Am-mXE";</note>
+      </trans-unit>
+      <trans-unit id="WSd-fh-61s.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="X59-OH-zRg.text">
+        <source>Dhaka, Bangladesh</source>
+        <target>ঢাকা, বাংলাদেশ</target>
+      </trans-unit>
+      <trans-unit id="Xdw-FA-YRB.accessibilityLabel">
+        <source>Select_DOB_Button</source>
+        <target>Select_DOB_Button</target>
+      </trans-unit>
+      <trans-unit id="YeV-GZ-Nh9.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "YeV-GZ-Nh9";</note>
+      </trans-unit>
+      <trans-unit id="a6i-1D-xOs.normalTitle">
+        <source>Change</source>
+        <target>পরিবর্তন</target>
+        <note>Class = "UIButton"; normalTitle = "Change"; ObjectID = "a6i-1D-xOs";</note>
+      </trans-unit>
+      <trans-unit id="a9k-M0-acW.normalTitle">
+        <source>Add to contact</source>
+        <target>বন্ধুতালিকায় যোগ করুন</target>
+        <note>Class = "UIButton"; normalTitle = "Add to contact"; ObjectID = "a9k-M0-acW";</note>
+      </trans-unit>
+      <trans-unit id="aJ7-jg-2Ok.accessibilityLabel">
+        <source>Profile_Color_Button_4</source>
+        <target>Profile_Color_Button_4</target>
+      </trans-unit>
+      <trans-unit id="aZp-jx-L1K.accessibilityLabel">
+        <source>Profile_Color_Button_6</source>
+        <target>Profile_Color_Button_6</target>
+      </trans-unit>
+      <trans-unit id="avP-a9-keP.accessibilityLabel">
+        <source>Phone_TextField</source>
+        <target>Phone_TextField</target>
+      </trans-unit>
+      <trans-unit id="avP-a9-keP.placeholder">
+        <source>Phone</source>
+        <target>মুঠোফোন</target>
+      </trans-unit>
+      <trans-unit id="bWh-7l-RZp.accessibilityLabel">
+        <source>Audio_Call_Button</source>
+        <target>Audio_Call_Button</target>
+      </trans-unit>
+      <trans-unit id="btp-pT-3Ir.text">
+        <source>Search Result</source>
+        <target>অনুসন্ধানের ফলাফল</target>
+      </trans-unit>
+      <trans-unit id="dp4-lG-WaT.text">
+        <source>Emma Watson</source>
+        <target>Emma Watson</target>
+        <note>Class = "UILabel"; text = "Emma Watson"; ObjectID = "dp4-lG-WaT";</note>
+      </trans-unit>
+      <trans-unit id="eVS-eZ-HdD.title">
+        <source>               </source>
+        <target>  </target>
+        <note>Class = "UIBarButtonItem"; title = "               "; ObjectID = "eVS-eZ-HdD";</note>
+      </trans-unit>
+      <trans-unit id="eZX-fR-9mt.text">
+        <source>Subtitle</source>
+        <target>সাবটাইটেল</target>
+      </trans-unit>
+      <trans-unit id="fx0-O4-ArP.accessibilityLabel">
+        <source>Select_DOB_Button</source>
+        <target>Select_DOB_Button</target>
+      </trans-unit>
+      <trans-unit id="hDG-Qs-p3J.placeholder">
+        <source>First Name</source>
+        <target>নামের প্রথম অংশ</target>
+      </trans-unit>
+      <trans-unit id="kdX-q4-MWl.normalTitle">
+        <source>UPDATE PROFILE</source>
+        <target>প্রোফাইল আপডেট করুন</target>
+      </trans-unit>
+      <trans-unit id="lIK-gI-x8Y.accessibilityLabel">
+        <source>Profile_Color_Button_3</source>
+        <target>Profile_Color_Button_3</target>
+      </trans-unit>
+      <trans-unit id="mFs-HF-MF9.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "mFs-HF-MF9";</note>
+      </trans-unit>
+      <trans-unit id="o5C-Gq-FyI.accessibilityLabel">
+        <source>Profile_Color_Button_2</source>
+        <target>Profile_Color_Button_2</target>
+      </trans-unit>
+      <trans-unit id="qCj-Ec-5dD.placeholder">
+        <source>Select Date of Birth</source>
+        <target>জন্মতারিখ চিহ্নিত করুন</target>
+      </trans-unit>
+      <trans-unit id="qP1-Dv-6xm.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="qR2-Fg-bA6.text">
+        <source>Describe yourself</source>
+        <target>নিজের সম্পর্কে বিস্তারিত</target>
+        <note>Class = "UILabel"; text = "Describe yourself"; ObjectID = "qR2-Fg-bA6";</note>
+      </trans-unit>
+      <trans-unit id="qlB-gw-b3Z.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="s7I-p3-ume.accessibilityLabel">
+        <source>Profile_Color_Button_6</source>
+        <target>Profile_Color_Button_6</target>
+      </trans-unit>
+      <trans-unit id="tKc-Gy-OCN.text">
+        <source>sarah.alia</source>
+        <target>sarah.alia</target>
+      </trans-unit>
+      <trans-unit id="u9y-Bk-1Kr.accessibilityLabel">
+        <source>Last_Name_TextField</source>
+        <target>Last_Name_TextField</target>
+      </trans-unit>
+      <trans-unit id="u9y-Bk-1Kr.placeholder">
+        <source>Last Name</source>
+        <target>নামের শেষ অংশ </target>
+      </trans-unit>
+      <trans-unit id="ujU-Zs-dvI.accessibilityLabel">
+        <source>Profile_Color_Button_2</source>
+        <target>Profile_Color_Button_2</target>
+      </trans-unit>
+      <trans-unit id="v7k-9N-gMh.text">
+        <source>PROFILE COLOR</source>
+        <target>প্রোফাইল রঙ</target>
+      </trans-unit>
+      <trans-unit id="vv3-eL-5K7.text">
+        <source>DATE OF BIRTH</source>
+        <target>জন্মতারিখ</target>
+      </trans-unit>
+      <trans-unit id="wGN-4b-KzS.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="y7s-LW-R7B.title">
+        <source>Edit Profile</source>
+        <target>প্রোফাইল সম্পাদনা করুন</target>
+        <note>Class = "UINavigationItem"; title = "Edit Profile"; ObjectID = "y7s-LW-R7B";</note>
+      </trans-unit>
+      <trans-unit id="yv7-Lb-wZh.text">
+        <source>Label</source>
+        <target>লেবেল</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "yv7-Lb-wZh";</note>
+      </trans-unit>
+      <trans-unit id="zTX-WI-soI.accessibilityLabel">
+        <source>Profile_Color_Button_3</source>
+        <target>Profile_Color_Button_3</target>
+      </trans-unit>
+      <trans-unit id="zY5-3i-ipO.text">
+        <source>MOBILE CARRIER'S RATES APPLY</source>
+        <target>মুঠোফোন কলে ফোন চার্জ প্রযোজ্য</target>
+        <note>Class = "UILabel"; text = "MOBILE CARRIER'S RATES APPLY"; ObjectID = "zY5-3i-ipO";</note>
+      </trans-unit>
+      <trans-unit id="zfA-Pl-Z3D.accessibilityLabel">
+        <source>Profile_Color_Button_1</source>
+        <target>Profile_Color_Button_1</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Base.lproj/Settings.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="4Do-Yb-XeW.title">
+        <source>Notification</source>
+        <target>নোটিফিকেশন</target>
+        <note>Class = "UINavigationItem"; title = "Notification"; ObjectID = "4Do-Yb-XeW";</note>
+      </trans-unit>
+      <trans-unit id="8Ow-Dm-s9M.title">
+        <source>Blocked Contacts</source>
+        <note>Class = "UINavigationItem"; title = "Blocked Contacts"; ObjectID = "8Ow-Dm-s9M";</note>
+      </trans-unit>
+      <trans-unit id="8tC-nd-aFw.text">
+        <source>No chat backgrounds are available at this moment, please stay tuned.</source>
+        <note>Class = "UILabel"; text = "No chat backgrounds are available at this moment, please stay tuned."; ObjectID = "8tC-nd-aFw";</note>
+      </trans-unit>
+      <trans-unit id="B3N-Po-Pr3.title">
+        <source>    </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="BuV-Jh-X9l.text">
+        <source>Version 2.4.2</source>
+        <note>Class = "UILabel"; text = "Version 2.4.2"; ObjectID = "BuV-Jh-X9l";</note>
+      </trans-unit>
+      <trans-unit id="C0d-1Z-eSr.text">
+        <source>
+Something amazing is on its way!
+
+Be a part of this journey, sign up to be a beta tester.
+</source>
+        <note>Class = "UITextView"; text = "\nSomething amazing is on its way!\n\nBe a part of this journey, sign up to be a beta tester.\n"; ObjectID = "C0d-1Z-eSr";</note>
+      </trans-unit>
+      <trans-unit id="CUm-2o-65i.text">
+        <source>Title</source>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "CUm-2o-65i";</note>
+      </trans-unit>
+      <trans-unit id="EK8-PP-tJG.accessibilityLabel">
+        <source>Confirm_Password_TextField</source>
+        <target>Confirm_Password_TextField</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Confirm_Password_TextField"; ObjectID = "EK8-PP-tJG";</note>
+      </trans-unit>
+      <trans-unit id="EK8-PP-tJG.placeholder">
+        <source>Confirm Password</source>
+        <target>পাসওয়ার্ড নিশ্চিত করুন</target>
+        <note>Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "EK8-PP-tJG";</note>
+      </trans-unit>
+      <trans-unit id="Fr9-c1-p6G.accessibilityLabel">
+        <source>Old_Password_TextField</source>
+        <target>Old_Password_TextField</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Old_Password_TextField"; ObjectID = "Fr9-c1-p6G";</note>
+      </trans-unit>
+      <trans-unit id="Fr9-c1-p6G.placeholder">
+        <source>Old Password</source>
+        <target>পুরনো পাসওয়ার্ড</target>
+        <note>Class = "UITextField"; placeholder = "Old Password"; ObjectID = "Fr9-c1-p6G";</note>
+      </trans-unit>
+      <trans-unit id="JYO-oO-yyo.text">
+        <source>Background Image</source>
+        <target>দেয়ালচিত্রের ছবি</target>
+      </trans-unit>
+      <trans-unit id="Kdz-yx-lUL.title">
+        <source>                 </source>
+        <note>Class = "UIBarButtonItem"; title = "                 "; ObjectID = "Kdz-yx-lUL";</note>
+      </trans-unit>
+      <trans-unit id="M86-SD-9X3.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "M86-SD-9X3";</note>
+      </trans-unit>
+      <trans-unit id="N69-WZ-B77.title">
+        <source>Select</source>
+        <note>Class = "UIBarButtonItem"; title = "Select"; ObjectID = "N69-WZ-B77";</note>
+      </trans-unit>
+      <trans-unit id="NEn-ue-YgX.text">
+        <source>Subtitle</source>
+        <note>Class = "UILabel"; text = "Subtitle"; ObjectID = "NEn-ue-YgX";</note>
+      </trans-unit>
+      <trans-unit id="NWN-em-Afe.text">
+        <source>Change Password</source>
+        <target>পাসওয়ার্ড বদলান</target>
+        <note>Class = "UILabel"; text = "Change Password"; ObjectID = "NWN-em-Afe";</note>
+      </trans-unit>
+      <trans-unit id="No5-8Q-XVr.accessibilityLabel">
+        <source>Send_Button</source>
+        <target>Send_Button</target>
+        <note>Class = "UIButton"; accessibilityLabel = "Send_Button"; ObjectID = "No5-8Q-XVr";</note>
+      </trans-unit>
+      <trans-unit id="No5-8Q-XVr.normalTitle">
+        <source>Send</source>
+        <target>পাঠান</target>
+        <note>Class = "UIButton"; normalTitle = "Send"; ObjectID = "No5-8Q-XVr";</note>
+      </trans-unit>
+      <trans-unit id="Oie-Ou-1T9.title">
+        <source>Background</source>
+        <target>দেয়ালচিত্র</target>
+        <note>Class = "UINavigationItem"; title = "Chat Background"; ObjectID = "Oie-Ou-1T9";</note>
+      </trans-unit>
+      <trans-unit id="Oif-y0-ZTm.title">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="QBN-l9-2Ke.accessibilityLabel">
+        <source>New_Password_TextField</source>
+        <target>New_Password_TextField</target>
+        <note>Class = "UITextField"; accessibilityLabel = "New_Password_TextField"; ObjectID = "QBN-l9-2Ke";</note>
+      </trans-unit>
+      <trans-unit id="QBN-l9-2Ke.placeholder">
+        <source>New Password</source>
+        <target>নতুন পাসওয়ার্ড</target>
+        <note>Class = "UITextField"; placeholder = "New Password"; ObjectID = "QBN-l9-2Ke";</note>
+      </trans-unit>
+      <trans-unit id="QID-BM-PNk.text">
+        <source>ChangeLog&gt;</source>
+        <note>Class = "UILabel"; text = "ChangeLog&gt;"; ObjectID = "QID-BM-PNk";</note>
+      </trans-unit>
+      <trans-unit id="Rnd-eP-WBu.title">
+        <source/>
+        <target>  </target>
+        <note>Class = "UIBarButtonItem"; title = "     "; ObjectID = "Rnd-eP-WBu";</note>
+      </trans-unit>
+      <trans-unit id="StX-PT-z3N.title">
+        <source>Reset</source>
+        <target>রিসেট</target>
+      </trans-unit>
+      <trans-unit id="TWS-Nz-gpW.accessibilityLabel">
+        <source>Save_Button</source>
+        <target/>
+        <note>Class = "UIButton"; accessibilityLabel = "Save_Button"; ObjectID = "TWS-Nz-gpW";</note>
+      </trans-unit>
+      <trans-unit id="TWS-Nz-gpW.normalTitle">
+        <source>Save</source>
+        <target>সংরক্ষণ</target>
+        <note>Class = "UIButton"; normalTitle = "Save"; ObjectID = "TWS-Nz-gpW";</note>
+      </trans-unit>
+      <trans-unit id="UXj-Rq-bCn.placeholder">
+        <source>New Password</source>
+        <note>Class = "UITextField"; placeholder = "New Password"; ObjectID = "UXj-Rq-bCn";</note>
+      </trans-unit>
+      <trans-unit id="X56-0s-d75.accessibilityLabel">
+        <source>Name_TextField</source>
+        <target>Name_TextField</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Name_TextField"; ObjectID = "X56-0s-d75";</note>
+      </trans-unit>
+      <trans-unit id="X56-0s-d75.placeholder">
+        <source>Name</source>
+        <target>নাম</target>
+        <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "X56-0s-d75";</note>
+      </trans-unit>
+      <trans-unit id="XIN-2f-rA2.title">
+        <source>Password</source>
+        <target>পাসওয়ার্ড</target>
+        <note>Class = "UINavigationItem"; title = "Password"; ObjectID = "XIN-2f-rA2";</note>
+      </trans-unit>
+      <trans-unit id="YHr-nt-O3n.text">
+        <source>GagaGugu</source>
+        <note>Class = "UILabel"; text = "GagaGugu"; ObjectID = "YHr-nt-O3n";</note>
+      </trans-unit>
+      <trans-unit id="adh-Dq-3u1.text">
+        <source>Search Visibility</source>
+        <target>অনুসন্ধানে দেখান</target>
+        <note>Class = "UILabel"; text = "Search Visibility"; ObjectID = "adh-Dq-3u1";</note>
+      </trans-unit>
+      <trans-unit id="ajK-JJ-ogU.accessibilityLabel">
+        <source>Report_TextView</source>
+        <target>Report_TextView</target>
+        <note>Class = "UITextView"; accessibilityLabel = "Report_TextView"; ObjectID = "ajK-JJ-ogU";</note>
+      </trans-unit>
+      <trans-unit id="avl-lI-SWB.title">
+        <source>Background</source>
+        <target>কথোপকথনের দেয়ালচিত্র </target>
+        <note>Class = "UINavigationItem"; title = "Chat Background"; ObjectID = "avl-lI-SWB";</note>
+      </trans-unit>
+      <trans-unit id="bBC-iI-eHT.title">
+        <source/>
+        <target>  </target>
+        <note>Class = "UIBarButtonItem"; title = "                 "; ObjectID = "bBC-iI-eHT";</note>
+      </trans-unit>
+      <trans-unit id="bHI-wJ-a8U.text">
+        <source>Clear Chat Background</source>
+        <target>কথোপকথনের দেয়ালচিত্র মুছুন</target>
+      </trans-unit>
+      <trans-unit id="c8J-bX-qaa.placeholder">
+        <source>Current Password</source>
+        <note>Class = "UITextField"; placeholder = "Current Password"; ObjectID = "c8J-bX-qaa";</note>
+      </trans-unit>
+      <trans-unit id="cjE-Bd-yDy.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "cjE-Bd-yDy";</note>
+      </trans-unit>
+      <trans-unit id="gK1-fJ-kNK.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "gK1-fJ-kNK";</note>
+      </trans-unit>
+      <trans-unit id="hFt-aM-ulc.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "hFt-aM-ulc";</note>
+      </trans-unit>
+      <trans-unit id="iuv-0E-blh.accessibilityLabel">
+        <source>Email_TextField</source>
+        <target>Email_TextField</target>
+        <note>Class = "UITextField"; accessibilityLabel = "Email_TextField"; ObjectID = "iuv-0E-blh";</note>
+      </trans-unit>
+      <trans-unit id="iuv-0E-blh.placeholder">
+        <source>Email</source>
+        <target>ইমেইল</target>
+        <note>Class = "UITextField"; placeholder = "Email"; ObjectID = "iuv-0E-blh";</note>
+      </trans-unit>
+      <trans-unit id="qA8-bs-zeD.title">
+        <source>Language</source>
+        <target>ভাষা বদলান</target>
+        <note>Class = "UINavigationItem"; title = "Language"; ObjectID = "qA8-bs-zeD";</note>
+      </trans-unit>
+      <trans-unit id="rNh-Q5-WeV.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "rNh-Q5-WeV";</note>
+      </trans-unit>
+      <trans-unit id="rfV-tN-erg.text">
+        <source>NEW PASSWORD</source>
+        <target>নতুন পাসওয়ার্ড</target>
+        <note>Class = "UILabel"; text = "NEW PASSWORD"; ObjectID = "rfV-tN-erg";</note>
+      </trans-unit>
+      <trans-unit id="sI7-cB-4hT.title">
+        <source>      </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = "      "; ObjectID = "sI7-cB-4hT";</note>
+      </trans-unit>
+      <trans-unit id="t4a-G5-LfX.title">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "t4a-G5-LfX";</note>
+      </trans-unit>
+      <trans-unit id="vrT-V1-voE.accessibilityLabel">
+        <source>Search_Visibilty_Switch</source>
+        <target>Search_Visibilty_Switch</target>
+        <note>Class = "UISwitch"; accessibilityLabel = "Search_Visibilty_Switch"; ObjectID = "vrT-V1-voE";</note>
+      </trans-unit>
+      <trans-unit id="wKA-Eg-mlW.title">
+        <source>Save</source>
+        <note>Class = "UIBarButtonItem"; title = "Save"; ObjectID = "wKA-Eg-mlW";</note>
+      </trans-unit>
+      <trans-unit id="ziV-Vd-n75.text">
+        <source>CURRENT PASSWORD</source>
+        <target>বর্তমান পাসওয়ার্ড</target>
+        <note>Class = "UILabel"; text = "CURRENT PASSWORD"; ObjectID = "ziV-Vd-n75";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Base.lproj/Walkthrough.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="z6S-ZA-HOA.title">
+        <source> </source>
+        <note>Class = "UIBarButtonItem"; title = " "; ObjectID = "z6S-ZA-HOA";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Info.plist" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>GagaGugu</source>
+      </trans-unit>
+      <trans-unit id="CFBundleGetInfoString">
+        <source/>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>Gagagugu</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright">
+        <source/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Resources/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="'Yesterday'">
+        <source>Yesterday</source>
+        <target>গতকাল</target>
+      </trans-unit>
+      <trans-unit id="ADD CONTACT TO CONNECT!">
+        <source>ADD CONTACT</source>
+        <target>বন্ধুতালিকায় যোগ করুন</target>
+      </trans-unit>
+      <trans-unit id="ALL NOTIFICATION">
+        <source>ALL NOTIFICATION</source>
+        <target>সকল নোটিফিকেশন</target>
+      </trans-unit>
+      <trans-unit id="About">
+        <source>About</source>
+        <target>সম্বন্ধে</target>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <target>যুক্ত</target>
+      </trans-unit>
+      <trans-unit id="Add Contact">
+        <source>ADD CONTACT</source>
+        <target>বন্ধুতালিকায় যোগ করুন</target>
+      </trans-unit>
+      <trans-unit id="Add Member">
+        <source>Add member</source>
+        <target>সদস্য যোগ করুন</target>
+      </trans-unit>
+      <trans-unit id="Add User">
+        <source>Add User</source>
+        <target>ব্যবহারকারী যোগ</target>
+      </trans-unit>
+      <trans-unit id="Add to contact">
+        <source>Add to contact</source>
+        <target>বন্ধুত্ব করুন</target>
+      </trans-unit>
+      <trans-unit id="Admin">
+        <source>Admin</source>
+        <target>অ্যাডমিন</target>
+      </trans-unit>
+      <trans-unit id="All Notifications">
+        <source>All Notifications</source>
+        <target>সকল নোটিফিকেশন</target>
+      </trans-unit>
+      <trans-unit id="Allow Contects">
+        <source>Allow Contacts</source>
+        <target>ফোনবুকে প্রবেশাধিকার</target>
+      </trans-unit>
+      <trans-unit id="Already have an account? Sign up">
+        <source>Don't have an account? &lt;fg 255|0|0&gt;&lt;u&gt;Sign up &lt;/u&gt;&lt;/fg&gt;</source>
+        <target>অ্যাকাউন্ট নেই? &lt;fg 255|0|0&gt;&lt;u&gt;নিবন্ধন&lt;/u&gt;&lt;/fg&gt;</target>
+      </trans-unit>
+      <trans-unit id="Animated stickers and fun emojis to make your chat come alive.">
+        <source>Animated stickers and awesome
+emojis will make your chat come alive.</source>
+        <target>নতুন সব স্টিকার থেকে বেছে
+নিন আপনার পছন্দেরটি</target>
+      </trans-unit>
+      <trans-unit id="Animated stickers ans awesome\r\nemojis makes your chat alive.">
+        <source>Animated stickers ans awesome
+emojis makes your chat alive.</source>
+      </trans-unit>
+      <trans-unit id="Anonymous">
+        <source>Anonymous</source>
+        <target>পরিচয়হীন</target>
+      </trans-unit>
+      <trans-unit id="Answering...">
+        <source>Answering...</source>
+        <target>উত্তর দিচ্ছে ...</target>
+      </trans-unit>
+      <trans-unit id="Are you sure">
+        <source>Are you sure?</source>
+        <target>আপনি কি নিশ্চিত?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to block __name__">
+        <source>Are you sure you want to block __name__?</source>
+        <target>আপনি কি নিশ্চিত ভাবে __name__ কে ব্লক করতে চাচ্ছেন?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to change your ownership to __name__">
+        <source>Are you sure you want to change your ownership to __name__</source>
+        <target>আপনি কি নিশ্চিতভাবে আপনার মালিকানা__name__এর সঙ্গে বদল করতে চান?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this group?">
+        <source>Are you sure you want to delete this group?</source>
+        <target>আপনি কি নিশ্চিতভাবে এই দলটি মুছে ফেলতে চান?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to leave this group?">
+        <source>Are you sure you want to leave this group?</source>
+        <target>আপনি কি নিশ্চিতভাবে এই দল ত্যাগ করতে চাইছেন?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to log out?">
+        <source>Are you sure you want to log out?</source>
+        <target>GagaGugu থেকে লগ আউট হতে চান?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove __name__">
+        <source>Are you sure you want to remove __name__</source>
+        <target>__name__ কে কি সত্যিই মুছে ফেলতে চান?</target>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove __name__ from your group?">
+        <source>Are you sure you want to remove __name__ from your group?</source>
+        <target>আপনি কি নিশ্চিতভাবে __name__ কে দল থেকে বের করে দিতে চান?</target>
+      </trans-unit>
+      <trans-unit id="At- Least 6 character">
+        <source>At- Least 6 character</source>
+        <target>অন্তত ৬টি অক্ষর লাগবে</target>
+      </trans-unit>
+      <trans-unit id="Audio Call">
+        <source>Audio Call</source>
+        <target>অডিও কল</target>
+      </trans-unit>
+      <trans-unit id="Awesome Stickers">
+        <source>Awesome Stickers</source>
+        <target>অসাধারণ সব স্টিকার</target>
+      </trans-unit>
+      <trans-unit id="Bio">
+        <source>Bio</source>
+        <target>জীবন বৃত্তান্ত</target>
+      </trans-unit>
+      <trans-unit id="Birth date">
+        <source>Date of birth </source>
+        <target>জন্ম তারিখ</target>
+      </trans-unit>
+      <trans-unit id="Block">
+        <source>Block</source>
+        <target>ব্লক</target>
+      </trans-unit>
+      <trans-unit id="By logging in you accept our terms &amp; privacy policy">
+        <source>By logging in you accept our &lt;fg 15|186|153&gt;terms &amp; privacy policy&lt;/fg&gt;</source>
+        <target>নিবন্ধন করার সময় আমি ব্যবহারের &lt;u&gt;শর্তাবলী মেনে নিচ্ছি&lt;/u&gt;</target>
+      </trans-unit>
+      <trans-unit id="CALL LOG">
+        <source>CALL LOG</source>
+        <target>কলের তালিকা</target>
+      </trans-unit>
+      <trans-unit id="CALL NOTIFICATION">
+        <source>CALL NOTIFICATION</source>
+        <target>কলের নোটিফিকেশন</target>
+      </trans-unit>
+      <trans-unit id="CHAT NOTIFICATION">
+        <source>CHAT NOTIFICATION</source>
+        <target>কথোপকথনের নোটিফিকেশন</target>
+      </trans-unit>
+      <trans-unit id="COMPOSE">
+        <source>COMPOSE</source>
+        <target>লিখুন</target>
+      </trans-unit>
+      <trans-unit id="CONTINUE">
+        <source>CONTINUE</source>
+      </trans-unit>
+      <trans-unit id="CREATE">
+        <source>CREATE</source>
+        <target>তৈরি করুন</target>
+      </trans-unit>
+      <trans-unit id="Call">
+        <source>Call</source>
+        <target>কল</target>
+      </trans-unit>
+      <trans-unit id="Call Canceled!">
+        <source>Call Canceled!</source>
+        <target>কল বাতিল হয়েছে!</target>
+      </trans-unit>
+      <trans-unit id="Call in progress...">
+        <source>Call in progress...</source>
+        <target>কল চলছে...</target>
+      </trans-unit>
+      <trans-unit id="Camera is not available.">
+        <source>Camera is not available.</source>
+        <target>ক্যামেরা পাওয়া যাচ্ছে না</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>বাতিল </target>
+      </trans-unit>
+      <trans-unit id="Cannot Add Contact">
+        <source>Cannot Add Contact</source>
+        <target>বন্ধুতালিকায় যোগ হয়নি</target>
+      </trans-unit>
+      <trans-unit id="Cellular Call">
+        <source>Cellular Call</source>
+        <target>মুঠোফোনে কল</target>
+      </trans-unit>
+      <trans-unit id="Change Group Name">
+        <source>Change group name</source>
+        <target>গ্রুপের নাম বদলান</target>
+      </trans-unit>
+      <trans-unit id="Change Group Ownership">
+        <source>Make admin </source>
+        <target>অ্যাডমিন বানান</target>
+      </trans-unit>
+      <trans-unit id="Change Password">
+        <source>Change Password</source>
+        <target>পাসওয়ার্ড বদলান</target>
+      </trans-unit>
+      <trans-unit id="Change Settings">
+        <source>Change Settings</source>
+        <target>সেটিংস বদলান</target>
+      </trans-unit>
+      <trans-unit id="ChangeLog">
+        <source>ChangeLog</source>
+        <target>বদল তালিকা</target>
+      </trans-unit>
+      <trans-unit id="ChangeLog&gt;">
+        <source>ChangeLog&gt;</source>
+        <target>বদল তালিকা&gt;</target>
+      </trans-unit>
+      <trans-unit id="Chat">
+        <source>Chat</source>
+        <target>কথোপকথন</target>
+      </trans-unit>
+      <trans-unit id="Chat Background">
+        <source>Chat Background</source>
+        <target>কথোপকথনের দেয়ালচিত্র</target>
+      </trans-unit>
+      <trans-unit id="Chatting had never been this fun! Free audio, video calls &amp; much more.">
+        <source>Chatting had never been this fun!
+Free audio, video calls &amp; much more.</source>
+        <target>নতুন আর আকর্ষণীয় সব কথোপকথন
+থিম থেকে বেছে নিন আপনারটি</target>
+      </trans-unit>
+      <trans-unit id="Choose Photo">
+        <source>Choose photo</source>
+        <target>ছবি পছন্দ করুন</target>
+      </trans-unit>
+      <trans-unit id="Clear">
+        <source>Clear</source>
+        <target>মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Clear All Recents">
+        <source>Clear All Recents</source>
+        <target>সাম্প্রতিকগুলো মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Clear History">
+        <source>Clear History</source>
+        <target>ইতিহাস মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target>বন্ধ</target>
+      </trans-unit>
+      <trans-unit id="Coming soon.">
+        <source>Coming soon.</source>
+        <target>শীঘ্রই আসছে.</target>
+      </trans-unit>
+      <trans-unit id="Confirm password is required">
+        <source>Confirm password is required</source>
+        <target>পাসওয়ার্ড নিশ্চিত করতে হবে</target>
+      </trans-unit>
+      <trans-unit id="Connect like to access your camera">
+        <source>You need to authorize GagaGugu to access camera and media files from your Settings</source>
+        <target>সেটিংস থেকে মিডিয়া ফাইল ও ক্যামেরা ব্যবহারের অনুমতি প্রয়োজন</target>
+      </trans-unit>
+      <trans-unit id="Connect like to access your microphone">
+        <source>Connect like to access your microphone</source>
+        <target>Connect আপনার মাইক্রোফোন নিয়ন্ত্রণ করতে চায়</target>
+      </trans-unit>
+      <trans-unit id="Connect like to access your photo">
+        <source>You need to authorize GagaGugu to access photo from your Settings</source>
+        <target>সেটিংস থেকে মিডিয়া ফাইল ও ক্যামেরা ব্যবহারের অনুমতি প্রয়োজন</target>
+      </trans-unit>
+      <trans-unit id="Connected">
+        <source>Connected</source>
+        <target>সংযুক্ত</target>
+      </trans-unit>
+      <trans-unit id="Connecting">
+        <source>Connecting...</source>
+        <target>সংযোগ চলছে</target>
+      </trans-unit>
+      <trans-unit id="Connecting you to the right people, creating value out of contacts.">
+        <source>Connecting you to the right people,
+creating value out of contacts.</source>
+        <target>নতুন প্রযুক্তির কল সেবা থেকে একেবারেই
+আলাদা অভিজ্ঞতা নিন সব বন্ধুদের সাথে নিয়ে</target>
+      </trans-unit>
+      <trans-unit id="Connecting...">
+        <source>Connecting...</source>
+        <target>সংযোগ চলছে...</target>
+      </trans-unit>
+      <trans-unit id="Contact Blocked Successfully!">
+        <source>Contact blocked successfully!</source>
+        <target>ব্লক করা হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Contact added!">
+        <source>Contact added successfully !</source>
+        <target>বন্ধুতালিকায় যুক্ত হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Contact is currently blocked">
+        <source>Contact is currently blocked</source>
+        <target>এই বন্ধুটি এখনো ব্লকড</target>
+      </trans-unit>
+      <trans-unit id="Contact successfully added">
+        <source>Contact successfully added</source>
+        <target>বন্ধুতালিকায় যুক্ত হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Contacts">
+        <source>Contacts</source>
+        <target>বন্ধুতালিকা</target>
+      </trans-unit>
+      <trans-unit id="Contest">
+        <source>Contest</source>
+        <target>প্রতিযোগিতা</target>
+      </trans-unit>
+      <trans-unit id="Continue">
+        <source>Continue</source>
+        <target>ঠিক আছে</target>
+      </trans-unit>
+      <trans-unit id="Country Matches">
+        <source>    Country Matches</source>
+        <target>    Country Matches</target>
+      </trans-unit>
+      <trans-unit id="Create Password">
+        <source>Create Password</source>
+        <target>পাসওয়ার্ড তৈরি করুন</target>
+      </trans-unit>
+      <trans-unit id="Creating...">
+        <source>Creating...</source>
+        <target>একটু অপেক্ষা করুন?</target>
+      </trans-unit>
+      <trans-unit id="Current Location">
+        <source>Current Location</source>
+        <target>বর্তমান অবস্থান</target>
+      </trans-unit>
+      <trans-unit id="Current password is required">
+        <source>Current password is required</source>
+        <target>চলতি পাসওয়ার্ড লাগবেই</target>
+      </trans-unit>
+      <trans-unit id="Date of Birth">
+        <source>Date of birth</source>
+        <target>জন্ম তারিখ</target>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Delete Group">
+        <source>Delete Group</source>
+        <target>দল মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Delete group">
+        <source>Delete Group</source>
+        <target>দল মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Didn't get the code? RESEND">
+        <source>Didn't get the code? &lt;u&gt;RESEND&lt;/u&gt;</source>
+        <target>যাচাইকোড পাননি? &lt;u&gt;আবার পাঠান&lt;/u&gt;</target>
+      </trans-unit>
+      <trans-unit id="Disconnected">
+        <source>Disconnected</source>
+        <target>সংযোগহীন</target>
+      </trans-unit>
+      <trans-unit id="Do you want to enable sync contacts, so we can help you find your friends?">
+        <source>Do you want to enable sync contacts, so we can help you find your friends?</source>
+        <target>বন্ধুতালিকা সচল করতে চান? আমরা আপনাকে বন্ধু খুঁজতে সাহায্য করতে পারি</target>
+      </trans-unit>
+      <trans-unit id="Do you want to sync the contact for this user">
+        <source>Do you want to sync the contact for this user</source>
+        <target>এই ব্যবহারকারীকে বন্ধু তালিকায় সিঙ্ক করতে চান?</target>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Don’t Allow">
+        <source>Don’t Allow</source>
+        <target>ঠিক নেই</target>
+      </trans-unit>
+      <trans-unit id="Edit Profile">
+        <source>Edit Profile</source>
+        <target>প্রোফাইল সম্পাদনা</target>
+      </trans-unit>
+      <trans-unit id="Emoji">
+        <source>Emoji</source>
+        <target>ইমোজি</target>
+      </trans-unit>
+      <trans-unit id="Enter a name">
+        <source>Enter a name</source>
+        <target>নাম লিখুন</target>
+      </trans-unit>
+      <trans-unit id="Enter room name">
+        <source>Enter room name</source>
+        <target>কক্ষের নাম দিন</target>
+      </trans-unit>
+      <trans-unit id="Enter valid group name">
+        <source>Enter valid group name</source>
+        <target>সঠিক গ্রুপের নাম দিন</target>
+      </trans-unit>
+      <trans-unit id="Error fetching contact details">
+        <source>Error fetching contact details</source>
+        <target>আপডেট করতে সমস্যা হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Fail to add!">
+        <source>Failed to add contact. Please try again.</source>
+        <target>বন্ধু করা যাচ্ছে না। আবার চেষ্টা করুন।</target>
+      </trans-unit>
+      <trans-unit id="Failed to remove contact.">
+        <source>Failed to remove contact.</source>
+        <target>বন্ধুকে সরানো যাচ্ছে না</target>
+      </trans-unit>
+      <trans-unit id="Find friends?">
+        <source>Find friends?</source>
+        <target>বন্ধুদের খুঁজছেন?</target>
+      </trans-unit>
+      <trans-unit id="Forgot password?">
+        <source>&lt;u&gt;Forgot password?&lt;/u&gt;</source>
+        <target>&lt;u&gt;পাসওয়ার্ড ভুলে গেছেন?&lt;/u&gt;</target>
+      </trans-unit>
+      <trans-unit id="Free Audio Call">
+        <source>Free Audio Call</source>
+        <target>ফ্রি অডিও কল</target>
+      </trans-unit>
+      <trans-unit id="Free Calls">
+        <source>Free Calls</source>
+        <target>ফ্রি কল</target>
+      </trans-unit>
+      <trans-unit id="Free Message">
+        <source>Free Message</source>
+        <target>ফ্রি ক্ষুদেবার্তা</target>
+      </trans-unit>
+      <trans-unit id="Free Messaging">
+        <source>Free Messaging</source>
+        <target>ফ্রি ক্ষুদেবার্তা</target>
+      </trans-unit>
+      <trans-unit id="Free Video Call">
+        <source>Free Video Call</source>
+        <target>ফ্রি ভিডিও কল</target>
+      </trans-unit>
+      <trans-unit id="Free audio call">
+        <source>Free Audio Call</source>
+        <target>ফ্রি অডিও কল</target>
+      </trans-unit>
+      <trans-unit id="Free texts N’ calls">
+        <source>Free Text N' calls</source>
+        <target>ফ্রি ক্ষুদেবার্তা এবং কল</target>
+      </trans-unit>
+      <trans-unit id="Free video call">
+        <source>Free Video Call</source>
+        <target>ফ্রি ভিডিও কল</target>
+      </trans-unit>
+      <trans-unit id="Future date is not allowed.">
+        <source>Future date is not allowed</source>
+        <target>ভবিষ্যৎ-এর কোনো তারিখ প্রযোজ্য নয়</target>
+      </trans-unit>
+      <trans-unit id="GG Food">
+        <source>GG Food</source>
+        <target>GG Food</target>
+      </trans-unit>
+      <trans-unit id="GG Movie">
+        <source>GG Movie</source>
+        <target>GG Movie</target>
+      </trans-unit>
+      <trans-unit id="GG Ride">
+        <source>GG Ride</source>
+        <target>GG Ride</target>
+      </trans-unit>
+      <trans-unit id="GG Services">
+        <source>GG Services</source>
+        <target>GG Service</target>
+      </trans-unit>
+      <trans-unit id="GROUP NOTIFICATION">
+        <source>GROUP NOTIFICATION</source>
+        <target>দলের নোটিফিকেশন</target>
+      </trans-unit>
+      <trans-unit id="GagaGugu like to access your contact">
+        <source>You need to authorize GagaGugu to access contacts from your Settings</source>
+        <target>সেটিংস থেকে বন্ধুতালিকা ব্যবহারের অনুমতি প্রয়োজন</target>
+      </trans-unit>
+      <trans-unit id="Gagagugu Video...">
+        <source>Gagagugu Video...</source>
+        <target>Gagagugu ভিডিও ...</target>
+      </trans-unit>
+      <trans-unit id="Group Details">
+        <source>Group details </source>
+        <target>দলের বিবরণ</target>
+      </trans-unit>
+      <trans-unit id="Group Name">
+        <source>Group Name</source>
+        <target>দলের নাম</target>
+      </trans-unit>
+      <trans-unit id="Groups">
+        <source>Groups</source>
+        <target>দল</target>
+      </trans-unit>
+      <trans-unit id="Help">
+        <source>Help</source>
+        <target>সহায়তা</target>
+      </trans-unit>
+      <trans-unit id="Help Center">
+        <source>Help Center</source>
+        <target>সহায়তাকেন্দ্র</target>
+      </trans-unit>
+      <trans-unit id="Hey! I am on GagaGugu. Let's catch-up on this awesome app. Visit http://gagagugu.com/ for details.">
+        <source>Hey! I am on GagaGugu. Let's catch-up on this awesome app. Visit http://gagagugu.com/ for details.</source>
+        <target>হেই! আমি GagaGugu ব্যবহার করছি। আপনিও ব্যবহার করুন দারুণ এই অ্যাপটি। বিস্তারিত জানতে http://gagagugu.com/.</target>
+      </trans-unit>
+      <trans-unit id="Hey, listen!">
+        <source>Hey, listen!</source>
+        <target>এইযে শুনুন!</target>
+      </trans-unit>
+      <trans-unit id="If you want to send message, you have to unblock first.">
+        <source>If you want to send message, you have to unblock first.</source>
+        <target>যদি আপনি তাঁকে বার্তা পাঠাতে চান, আগে আনব্লক করতে হবে</target>
+      </trans-unit>
+      <trans-unit id="Import contacts from different social network like facebook, twitter, gmail etc.">
+        <source>Import contacts from different social network like Facebook, Twitter, Gmail etc.</source>
+        <target>ফেসবুক, টুইটার, জিমেইল ইত্যাদি সামাজিক নেটওয়ার্ক থেকে বন্ধুদের নিয়ে আসুন।</target>
+      </trans-unit>
+      <trans-unit id="In Call">
+        <source>In Call</source>
+        <target>কল চলছে</target>
+      </trans-unit>
+      <trans-unit id="Incoming Call">
+        <source>Incoming Call</source>
+        <target>ইনকামিং কল</target>
+      </trans-unit>
+      <trans-unit id="Incoming Video...">
+        <source>Incoming Video...</source>
+        <target>ইনকামিং ভিডিও...</target>
+      </trans-unit>
+      <trans-unit id="Incoming...">
+        <source>Incoming...</source>
+        <target>ইনকামিং...</target>
+      </trans-unit>
+      <trans-unit id="Invitation sent">
+        <source>Invitation sent</source>
+        <target>আমন্ত্রণ করা হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Invitation successfully sent">
+        <source>Invitation successfully sent</source>
+        <target>আমন্ত্রণ করা হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Invite">
+        <source>Invite</source>
+        <target>আমন্ত্রণ</target>
+      </trans-unit>
+      <trans-unit id="It's not interestion">
+        <source>It's not interesting</source>
+        <target>এটা আকর্ষণীয় না</target>
+      </trans-unit>
+      <trans-unit id="It's sexually explicit">
+        <source>It's sexually explicit</source>
+        <target>এটি যৌনতাপূর্ণ</target>
+      </trans-unit>
+      <trans-unit id="It's vulgar or violent">
+        <source>It's vulgar or violent</source>
+        <target>এটা অভদ্র বা হিংসাত্মক</target>
+      </trans-unit>
+      <trans-unit id="Just now">
+        <source>Just now</source>
+        <target>এই মুহূর্তে</target>
+      </trans-unit>
+      <trans-unit id="Kick Member">
+        <source>Remove</source>
+        <target>অপসারণ</target>
+      </trans-unit>
+      <trans-unit id="LOG IN">
+        <source>LOG IN</source>
+        <target>লগ ইন</target>
+      </trans-unit>
+      <trans-unit id="LOGIN">
+        <source>LOGIN</source>
+        <target>লগ ইন</target>
+      </trans-unit>
+      <trans-unit id="Language">
+        <source>Language</source>
+        <target>ভাষা বদলান</target>
+      </trans-unit>
+      <trans-unit id="Leave Group">
+        <source>Leave Group</source>
+        <target>দলত্যাগ করুন</target>
+      </trans-unit>
+      <trans-unit id="Leave Room">
+        <source>Leave Room</source>
+        <target>কক্ষত্যাগ</target>
+      </trans-unit>
+      <trans-unit id="Leave group">
+        <source>Leave Group</source>
+        <target>দলত্যাগ করুন</target>
+      </trans-unit>
+      <trans-unit id="Location">
+        <source>Location</source>
+        <target>অবস্থান</target>
+      </trans-unit>
+      <trans-unit id="Log Out">
+        <source>Log Out</source>
+        <target>লগ আউট</target>
+      </trans-unit>
+      <trans-unit id="Logging in...">
+        <source>Logging in...</source>
+        <target>একটু অপেক্ষা করুন...</target>
+      </trans-unit>
+      <trans-unit id="Login with Email">
+        <source>&lt;fg 15|186|153&gt;Login with Email&lt;/fg&gt;</source>
+      </trans-unit>
+      <trans-unit id="MAKE A CALL">
+        <source>MAKE A CALL</source>
+        <target>কল করুন</target>
+      </trans-unit>
+      <trans-unit id="Make Admin">
+        <source>Make admin </source>
+        <target>অ্যাডমিন বানান</target>
+      </trans-unit>
+      <trans-unit id="Make a voice call with your friend its completely free">
+        <source>Make a voice call with your friend its completely free</source>
+        <target>বন্ধুকে কল করুন সম্পূর্ণ বিনামূল্যে</target>
+      </trans-unit>
+      <trans-unit id="Make your chats come alive with\r\nan endless variety of themes.">
+        <source>Make your chats come alive with
+an endless variety of themes</source>
+        <target>নতুন আর আকর্ষণীয় সব কথোপকথন
+থিম থেকে বেছে নিন আপনারটি</target>
+      </trans-unit>
+      <trans-unit id="Manage friends, family, office with\r\ndifferent profiles only in GagaGugu.">
+        <source>Manage friends, family, office with
+different profiles only in GagaGugu.</source>
+        <target>ভিডিও অথবা অডিও কলে যখন যেখানে খুশি
+কথা বলুন GagaGugu বন্ধুদের সাথে</target>
+      </trans-unit>
+      <trans-unit id="Manage friends, family, work with separate profiles from one account.">
+        <source>Introducing high quality audio &amp; video
+calls that you never experienced!</source>
+        <target>ভিডিও অথবা অডিও কলে যখন যেখানে 
+খুশি কথা বলুন GagaGugu বন্ধুদের সাথে</target>
+      </trans-unit>
+      <trans-unit id="Marketplace">
+        <source>Marketplace</source>
+        <target>মার্কেটপ্লেস</target>
+      </trans-unit>
+      <trans-unit id="Matches">
+        <source>Matches</source>
+        <target>মিলেছে</target>
+      </trans-unit>
+      <trans-unit id="Meeting">
+        <source>Meeting</source>
+        <target>সাক্ষাৎ</target>
+      </trans-unit>
+      <trans-unit id="Missed Call">
+        <source>Missed Call</source>
+        <target>মিস্‌ড কল</target>
+      </trans-unit>
+      <trans-unit id="Multi - Profile">
+        <source>Multi - Profile</source>
+        <target>মাল্টি প্রোফাইল</target>
+      </trans-unit>
+      <trans-unit id="Multiple Profiles">
+        <source>Superb Call Quality</source>
+        <target>মাল্টিপল প্রোফাইল</target>
+      </trans-unit>
+      <trans-unit id="Mute">
+        <source>Mute</source>
+        <target>নি:শব্দ</target>
+      </trans-unit>
+      <trans-unit id="My Folder">
+        <source>My Folder</source>
+        <target>আমার ফোল্ডার</target>
+      </trans-unit>
+      <trans-unit id="My Games">
+        <source>My Games</source>
+        <target>আমার গেম</target>
+      </trans-unit>
+      <trans-unit id="N/A">
+        <source>N/A</source>
+        <target>N/A</target>
+      </trans-unit>
+      <trans-unit id="NEXT">
+        <source>NEXT</source>
+        <target>পরবর্তী</target>
+      </trans-unit>
+      <trans-unit id="Name Matches">
+        <source>Name Matches</source>
+        <target>নাম মিলে গেছে</target>
+      </trans-unit>
+      <trans-unit id="Name at-Least 1 characters">
+        <source>Name at-Least 1 characters</source>
+        <target>নাম অন্তত ১ অক্ষরের হতে হবে!</target>
+      </trans-unit>
+      <trans-unit id="Name is at-most 20 characters long">
+        <source>Name is at-most 20 characters long</source>
+        <target>নাম সর্বোচ্চ ২০ অক্ষর দীর্ঘ হতে পারবে</target>
+      </trans-unit>
+      <trans-unit id="Name is required and accepts only letters &amp; numbers">
+        <source>Name is required and accepts only letters &amp; numbers</source>
+        <target>নাম দিতেই হবে এবং শুধু অক্ষর ও নম্বর ব্যবহার করতে হবে</target>
+      </trans-unit>
+      <trans-unit id="Name this group chat">
+        <source>Name this group chat</source>
+        <target>গ্রুপ কথোপকথনের নাম দিন</target>
+      </trans-unit>
+      <trans-unit id="Network connection is working">
+        <source>Network connection is working</source>
+        <target>নেটওয়ার্ক সংযোগ কাজ করছে</target>
+      </trans-unit>
+      <trans-unit id="New Group">
+        <source>New Group</source>
+        <target>নতুন দল</target>
+      </trans-unit>
+      <trans-unit id="New Message">
+        <source>New Message</source>
+        <target>নতুন বার্তা</target>
+      </trans-unit>
+      <trans-unit id="New Password">
+        <source>New Password</source>
+        <target>নতুন পাসওয়ার্ড</target>
+      </trans-unit>
+      <trans-unit id="New and confirm password doesn't match">
+        <source>New and confirm password doesn't match</source>
+        <target>নতুন এবং নিশ্চিত পাসওয়ার্ড মিলছে না</target>
+      </trans-unit>
+      <trans-unit id="New password is required">
+        <source>New password is required</source>
+        <target>নতুন পাসওয়ার্ড দিতেই হবে!</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>না</target>
+      </trans-unit>
+      <trans-unit id="No Calls Yet">
+        <source>No Calls Yet</source>
+        <target>এখনো কোনো কল হয়নি</target>
+      </trans-unit>
+      <trans-unit id="No Contact Found">
+        <source>No Contact Found</source>
+        <target>কোনো বন্ধুতালিকা পাওয়া যায়নি</target>
+      </trans-unit>
+      <trans-unit id="No Name">
+        <source>No Name</source>
+        <target>নাম নেই</target>
+      </trans-unit>
+      <trans-unit id="No messages yet">
+        <source>No messages yet</source>
+        <target>এখনো কোনো কথোপকথন হয়নি</target>
+      </trans-unit>
+      <trans-unit id="No network connection">
+        <source>No Network Connection</source>
+        <target>ইন্টারনেট সংযোগ নেই</target>
+      </trans-unit>
+      <trans-unit id="No results found for">
+        <source>No results found</source>
+        <target>কোনো ফলাফল পাওয়া যায়নি</target>
+      </trans-unit>
+      <trans-unit id="Not logged in yet.">
+        <source>Not logged in yet.</source>
+        <target>এখনো লগ ইন না</target>
+      </trans-unit>
+      <trans-unit id="Notification">
+        <source>Notification</source>
+        <target>নোটিফিকেশন</target>
+      </trans-unit>
+      <trans-unit id="OFFLINE">
+        <source>OFFLINE</source>
+        <target>এখন নেই</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>ঠিক আছে</target>
+      </trans-unit>
+      <trans-unit id="ONLINE">
+        <source>ONLINE</source>
+        <target>এখন আছেন</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OTHERS">
+        <source>OTHERS</source>
+        <target>অন্যেরা</target>
+      </trans-unit>
+      <trans-unit id="Ok">
+        <source>Ok</source>
+        <target>ঠিক আছে</target>
+      </trans-unit>
+      <trans-unit id="Old password is required">
+        <source>Old password is required</source>
+        <target>পুরানো পাসওয়ার্ড দিতেই হবে!</target>
+      </trans-unit>
+      <trans-unit id="Other">
+        <source>Other</source>
+        <target>অন্যান্য</target>
+      </trans-unit>
+      <trans-unit id="Outgoing Call">
+        <source>Outgoing Call</source>
+        <target>আউটগোয়িং কল</target>
+      </trans-unit>
+      <trans-unit id="PEOPLE">
+        <source>PEOPLE</source>
+        <target>সদস্য</target>
+      </trans-unit>
+      <trans-unit id="PHONE NUMBER">
+        <source>PHONE NUMBER</source>
+        <target>মুঠোফোন নম্বর</target>
+      </trans-unit>
+      <trans-unit id="Password is required">
+        <source>Password is required</source>
+        <target>পাসওয়ার্ড দিতেই হবে!</target>
+      </trans-unit>
+      <trans-unit id="Password must be at-least 8 character long">
+        <source>Password must be at-least 8 character long</source>
+        <target>একটি কার্যকর পাসওয়ার্ড তৈরিতে কমপক্ষে ৮টি অক্ষর দিতে হবে</target>
+      </trans-unit>
+      <trans-unit id="Phone Number">
+        <source>Phone number </source>
+        <target>মুঠোফোন নম্বর</target>
+      </trans-unit>
+      <trans-unit id="Phone Number Confirmation">
+        <source>Phone Number Confirmation</source>
+        <target>ফোন নম্বর নিশ্চিতকরণ</target>
+      </trans-unit>
+      <trans-unit id="Phone Number must be at-most 12 character long">
+        <source>Phone Number must be at-most 12 character long</source>
+        <target>ফোন নম্বর সর্বোচ্চ ১২ সংখ্যা দীর্ঘ হতে পারবে</target>
+      </trans-unit>
+      <trans-unit id="Phone number at-least 4 digit long">
+        <source>Phone number at-least 4 digit long</source>
+        <target>ফোন নম্বর সর্বনিম্ন 4 সংখ্যা দীর্ঘ হতে হবে</target>
+      </trans-unit>
+      <trans-unit id="Phone number is required">
+        <source>Phone number is required</source>
+        <target>ফোন নম্বর লাগবেই!</target>
+      </trans-unit>
+      <trans-unit id="Pick language">
+        <source>Pick language</source>
+        <target>ভাষা নির্বাচন করুন</target>
+      </trans-unit>
+      <trans-unit id="Play with your keyword to find out nearby friends">
+        <source>Play with your keyword to find out nearby friends</source>
+        <target>বন্ধু খুঁজতে নাম লেখা শুরু করুন</target>
+      </trans-unit>
+      <trans-unit id="Please Allow Contects">
+        <source>Please Allow Contacts</source>
+        <target>ফোনবুকে প্রবেশাধিকার দিন</target>
+      </trans-unit>
+      <trans-unit id="Please allow Gagagugu to access your contact">
+        <source>Please allow Gagagugu to access your contact</source>
+        <target>Gagagugu আপনার ফোনবুকে প্রবেশাধিকার চাচ্ছে</target>
+      </trans-unit>
+      <trans-unit id="Please enable location service">
+        <source>Please enable location service</source>
+        <target>অবস্থান সেবা সক্রিয় করুন</target>
+      </trans-unit>
+      <trans-unit id="Please send or cancel recording">
+        <source>Please send or cancel recording</source>
+        <target>রেকর্ডিং পাঠান অথবা বাতিল করুন</target>
+      </trans-unit>
+      <trans-unit id="Please, wait...">
+        <source>Please, wait...</source>
+        <target>একটু অপেক্ষা করুন</target>
+      </trans-unit>
+      <trans-unit id="Poll">
+        <source>Poll</source>
+        <target>ভোট</target>
+      </trans-unit>
+      <trans-unit id="Privacy">
+        <source>Privacy</source>
+        <target>গোপনীয়তা</target>
+      </trans-unit>
+      <trans-unit id="Privacy Policy">
+        <source>Privacy Policy</source>
+        <target>গোপনীয়তার নীতি</target>
+      </trans-unit>
+      <trans-unit id="RESET PASSWORD">
+        <source>RESET PASSWORD</source>
+      </trans-unit>
+      <trans-unit id="Received">
+        <source>Received</source>
+        <target>পেয়েছি</target>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <target>মুছে ফেলুন</target>
+      </trans-unit>
+      <trans-unit id="Remove From Chat">
+        <source>Remove From Chat</source>
+        <target>কথোপকথন থেকে মুছুন</target>
+      </trans-unit>
+      <trans-unit id="Remove contact">
+        <source>Remove contact</source>
+        <target>বন্ধুকে বাদ দিন</target>
+      </trans-unit>
+      <trans-unit id="Rename">
+        <source>Rename</source>
+        <target>নাম পরিবর্তন করুন</target>
+      </trans-unit>
+      <trans-unit id="Report">
+        <source>Report</source>
+        <target>অভিযোগ</target>
+      </trans-unit>
+      <trans-unit id="Report Problem">
+        <source>Report a Problem</source>
+        <target>সমস্যার কথা জানান</target>
+      </trans-unit>
+      <trans-unit id="Report a Problem">
+        <source>Report a Problem</source>
+        <target>সমস্যার কথা জানান</target>
+      </trans-unit>
+      <trans-unit id="Resending...">
+        <source>Resending...</source>
+        <target>আবার পাঠানো হচ্ছে...</target>
+      </trans-unit>
+      <trans-unit id="Ringing...">
+        <source>Ringing...</source>
+        <target>ক্রিং ক্রিং ক্রিং...</target>
+      </trans-unit>
+      <trans-unit id="SAVE PASSWORD">
+        <source>SAVE PASSWORD</source>
+        <target>পাসওয়ার্ড সংরক্ষণ</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>সংরক্ষণ</target>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <target>অনুসন্ধান</target>
+      </trans-unit>
+      <trans-unit id="Search Contact">
+        <source>Search contact</source>
+        <target>বন্ধু খুঁজুন</target>
+      </trans-unit>
+      <trans-unit id="Search Visibility">
+        <source>Search visibility </source>
+        <target>অনুসন্ধানে দেখান</target>
+      </trans-unit>
+      <trans-unit id="Selected Location">
+        <source>Selected Location</source>
+        <target>নির্বাচিত অবস্থান</target>
+      </trans-unit>
+      <trans-unit id="Send">
+        <source>Send</source>
+        <target>পাঠান</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Message">
+        <source>Send Message</source>
+        <target>ক্ষুদেবার্তা পাঠান</target>
+      </trans-unit>
+      <trans-unit id="Sending....">
+        <source>Sending....</source>
+        <target>পাঠানো হচ্ছে...</target>
+      </trans-unit>
+      <trans-unit id="Sent">
+        <source>Sent</source>
+        <target>পাঠিয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="Service">
+        <source>Service</source>
+        <target>সেবা</target>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>সেটিংস</target>
+      </trans-unit>
+      <trans-unit id="Skip">
+        <source>&lt;fg 15|186|153&gt;&lt;u&gt;Skip&lt;/u&gt;&lt;/fg&gt;</source>
+        <target>&lt;fg 15|186|153&gt;এড়িয়ে যান&lt;/u&gt;&lt;/fg&gt;</target>
+      </trans-unit>
+      <trans-unit id="Something amazing is on its way!\n\rBe a part of this journey, sign up to be a beta tester.">
+        <source>Something amazing is on its way!
+
+Be a part of this journey, sign up to be a beta tester.</source>
+        <target>দারুণ বিস্ময়কর কিছু আছে!
+
+সঙ্গী হতে বেটা সংস্করণে সাইন আপ করুন</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong! Please, try later">
+        <source>Something went wrong! Please, try later</source>
+        <target>কিছু ভুল হয়েছে! পরে চেষ্টা করুন।</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong, Please try again">
+        <source>Something went wrong! Please, try later</source>
+        <target>কিছু ভুল হয়েছে! পরে চেষ্টা করুন।</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong. Please, try later">
+        <source>Something went wrong. Please, try later</source>
+        <target>কিছু ভুল হয়েছে! পরে চেষ্টা করুন।</target>
+      </trans-unit>
+      <trans-unit id="Sound">
+        <source>Notification sound</source>
+        <target>নোটিফিকেশনের শব্দ</target>
+      </trans-unit>
+      <trans-unit id="Start Group Chat">
+        <source>Start Group Chat</source>
+        <target>গ্রুপ কথোপকথন শুরু</target>
+      </trans-unit>
+      <trans-unit id="Start New Chat">
+        <source>Start New Chat</source>
+        <target>নতুন কথোপকথন শুরু</target>
+      </trans-unit>
+      <trans-unit id="Successful">
+        <source>Successful</source>
+        <target>সফল</target>
+      </trans-unit>
+      <trans-unit id="Take Photo">
+        <source>Take photo</source>
+        <target>ছবি তুলুন</target>
+      </trans-unit>
+      <trans-unit id="Talk with your GagaGugu friends\r\nvideo or audio anytime anywhere.">
+        <source>Talk with your GagaGugu friends
+video or audio anytime anywhere.</source>
+        <target>ভিডিও অথবা অডিও কলে যখন যেখানে খুশি
+কথা বলুন GagaGugu বন্ধুদের সাথে</target>
+      </trans-unit>
+      <trans-unit id="Teach">
+        <source>Teach</source>
+        <target>শেখান</target>
+      </trans-unit>
+      <trans-unit id="Terms &amp; Condition">
+        <source>Terms &amp; Condition</source>
+        <target>নিয়ম এবং শর্ত</target>
+      </trans-unit>
+      <trans-unit id="Terms of use">
+        <source>Terms of use</source>
+        <target>ব্যবহারের শর্তাবলি</target>
+      </trans-unit>
+      <trans-unit id="This is your own profile">
+        <source>This is your own profile</source>
+        <target>এটা আপনার নিজের প্রোফাইল</target>
+      </trans-unit>
+      <trans-unit id="This will change your chat background to default.">
+        <source>This will change your chat background to default.</source>
+        <target>এটা কথোপকথনের দেয়ালচিত্র বদলে আগের মতো করে দেবে</target>
+      </trans-unit>
+      <trans-unit id="To create a new conversation you have to sync or add contact.">
+        <source>To create a new conversation you have to sync or add contact.</source>
+        <target>নতুন কথোপকথন তৈরি করতে চাইলে বন্ধুতালিকা সিঙ্ক বা অ্যাড করতে হবে</target>
+      </trans-unit>
+      <trans-unit id="Today'">
+        <source>Today</source>
+        <target>আজ</target>
+      </trans-unit>
+      <trans-unit id="Total Contacts">
+        <source>Total Contacts</source>
+        <target>মুঠোফোনবন্ধুর সংখ্যা</target>
+      </trans-unit>
+      <trans-unit id="Total Friends">
+        <source>Total Friends</source>
+        <target>বন্ধুর সংখ্যা</target>
+      </trans-unit>
+      <trans-unit id="Type a new name">
+        <source>Type a new name</source>
+        <target>নতুন নাম টাইপ করুন</target>
+      </trans-unit>
+      <trans-unit id="Type something">
+        <source>Type something</source>
+        <target>লিখুন</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unblock">
+        <source>Unblock</source>
+        <target>আনব্লক করুন</target>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <target>অপরিচিত</target>
+      </trans-unit>
+      <trans-unit id="Unknown Error">
+        <source>Unknown Error</source>
+        <target>কিছু একটা ঝামেলা হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="Updating profile...">
+        <source>Updating profile...</source>
+        <target>প্রোফাইল আপডেট হচ্ছে...</target>
+      </trans-unit>
+      <trans-unit id="Updating...">
+        <source>Updating...</source>
+        <target>আপডেট করা হচ্ছে</target>
+      </trans-unit>
+      <trans-unit id="User is busy">
+        <source>User is busy</source>
+        <target>ব্যবহারকারী ব্যস্ত আছে</target>
+      </trans-unit>
+      <trans-unit id="VERIFY">
+        <source>VERIFY</source>
+        <target>যাচাই</target>
+      </trans-unit>
+      <trans-unit id="Valued Contacts">
+        <source>Valued Contacts</source>
+        <target>মূল্যবান বন্ধুতালিকা</target>
+      </trans-unit>
+      <trans-unit id="Verification successful">
+        <source>Verification successful</source>
+        <target>যাচাই সফল হয়েছে।</target>
+      </trans-unit>
+      <trans-unit id="Verifying...">
+        <source>Verifying...</source>
+        <target>একটু অপেক্ষা করুন?</target>
+      </trans-unit>
+      <trans-unit id="Vibration">
+        <source>Vibration</source>
+        <target>কম্পন</target>
+      </trans-unit>
+      <trans-unit id="Virtual Assistant">
+        <source>Virtual Assistant</source>
+        <target>ভার্চুয়াল সহকারী</target>
+      </trans-unit>
+      <trans-unit id="Warning!">
+        <source>Warning!</source>
+        <target>সতর্কতা!</target>
+      </trans-unit>
+      <trans-unit id="We can see that you don't have anygroup chat history">
+        <source>We can see that you don't have any group chat history</source>
+        <target>আপনার কোনো দলীয় কথোপকথনের ইতিহাস নেই</target>
+      </trans-unit>
+      <trans-unit id="We can see that you don’t have any chat history">
+        <source>We can see that you don’t have any chat history</source>
+        <target>আপনার কোনো কথোপকথনের ইতিহাস নেই</target>
+      </trans-unit>
+      <trans-unit id="We need a couple things before you get started.">
+        <source>We need a couple things before you get started.</source>
+        <target>শুরু করার আগে কিছু বিষয় জানা প্রয়োজন</target>
+      </trans-unit>
+      <trans-unit id="We use this to access\r\nyour phone contact">
+        <source>We use this to access
+your phone contact</source>
+        <target>আপনার মুঠোফোনের বন্ধুতালিকায় প্রবেশ করতে আমরা এটি ব্যবহার করবো</target>
+      </trans-unit>
+      <trans-unit id="We use this to see how\r\ncool you look on camera">
+        <source>See how cool you are looking on camera</source>
+        <target>দেখুন ক্যামেরাতে আপনাকে কত চমৎকার লাাগছে</target>
+      </trans-unit>
+      <trans-unit id="We use this to see how\r\ncool you look on photos">
+        <source>See how cool you are looking on camera</source>
+        <target>দেখুন ক্যামেরাতে আপনাকে কত চমৎকার লাাগছে</target>
+      </trans-unit>
+      <trans-unit id="We use this to track\r\nwhere you live">
+        <source>We can find out where you are</source>
+        <target>আমরা খুঁজে বের করতে পারব আপনি কোথায় আছেন</target>
+      </trans-unit>
+      <trans-unit id="We'll send a verification code to the following number:">
+        <source>We'll send a verification code to the following number:</source>
+        <target>আপনার এই মুঠোফোন নম্বরে একটি যাচাইকোড পাঠানো হবে:</target>
+      </trans-unit>
+      <trans-unit id="What is wrong with this?">
+        <source>What is wrong with this?</source>
+        <target>কোনো সমস্যা হচ্ছে?</target>
+      </trans-unit>
+      <trans-unit id="Would you like to teach a new sentance?">
+        <source>Would you like to teach a new sentence?</source>
+        <target>আপনি কি একটি নতুন বাক্য শেখাতে চান?</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>হ্যাঁ </target>
+      </trans-unit>
+      <trans-unit id="You are about to leave Connect and place a cellular call throughyour carrier. Please note that your mobile carrier. Please note that your mobile carrier’s rates apply">
+        <source>You are about to leave Connect and place a cellular call throughyour carrier. Please note that your mobile carrier’s rates apply</source>
+        <target>GagaGugu থেকে বের হয়ে সরাসরি মুঠোফোনে কল করুন। চার্জ প্রযোজ্য।</target>
+      </trans-unit>
+      <trans-unit id="You are about to leave Connect and place a cellular call throughyour carrier. Please note that your mobile carrier’s rates apply">
+        <source>Mobile carrier's rates apply</source>
+        <target>GagaGugu থেকে বের হয়ে সরাসরি মুঠোফোনে কল করুন। চার্জ প্রযোজ্য।</target>
+      </trans-unit>
+      <trans-unit id="You can change your other notification settings when your all notification is turned on">
+        <source>You can change your Notification settings</source>
+        <target>আপনার নোটিফিকেশন সেটিং পরিবর্তন করতে পারবেন</target>
+      </trans-unit>
+      <trans-unit id="You missed a call">
+        <source> You missed a call</source>
+        <target>আপনি একটি কল মিস করেছেন</target>
+      </trans-unit>
+      <trans-unit id="You must give the app permission to add the contact first.">
+        <source>You must give the app permission to add the contact first.</source>
+        <target>বন্ধু যোগ করার জন্য অ্যাপলিকেশনকে অনুমতি দিতে হবে।</target>
+      </trans-unit>
+      <trans-unit id="You previously selected to block __name__. Completing this action will unblock __name__, are you sure you want to complete this action">
+        <source>You previously selected to block __name__. Completing this action will unblock __name__, are you sure you want to complete this action</source>
+        <target>আপনি ইতোপূর্বে __name__ কে ব্লক করেছিলেন। আপনি কি নিশ্চিত ভাবে __name__ কে আনব্লক করতে চাচ্ছেন?</target>
+      </trans-unit>
+      <trans-unit id="You will get the code in __time__ sec">
+        <source>You will get the code in __time__ sec</source>
+        <target>__time__ সেকেন্ডের মধ্যে পিনকোড পেয়ে যাবেন</target>
+      </trans-unit>
+      <trans-unit id="You: ">
+        <source>You: </source>
+        <target>আপনি: </target>
+      </trans-unit>
+      <trans-unit id="Your password has been changed succesfully">
+        <source>Your password has been changed succesfully</source>
+        <target>পাসওয়ার্ড সফলভাবে বদলানো হয়েছে</target>
+      </trans-unit>
+      <trans-unit id="__name__ is blocked">
+        <source>__name__ is blocked</source>
+        <target>__name__ ব্লকড আছে</target>
+      </trans-unit>
+      <trans-unit id="__time__ days ago">
+        <source>__time__ days ago</source>
+        <target>__time__ দিন আগে</target>
+      </trans-unit>
+      <trans-unit id="__time__ hours ago">
+        <source>__time__ hours ago</source>
+        <target>__time__ ঘণ্টা আগে</target>
+      </trans-unit>
+      <trans-unit id="__time__ minutes ago">
+        <source>__time__ minutes ago</source>
+        <target>__time__ মিনিট আগে</target>
+      </trans-unit>
+      <trans-unit id="__time__m ago">
+        <source>__time__m ago</source>
+        <target>__time__ মিনিট আগে</target>
+      </trans-unit>
+      <trans-unit id="__verb__ __article__ __type__">
+        <source>__verb__ __article__ __type__</source>
+        <target>__article__ __type__ __verb__</target>
+      </trans-unit>
+      <trans-unit id="a">
+        <source>a</source>
+        <target>একটি</target>
+      </trans-unit>
+      <trans-unit id="an">
+        <source>an</source>
+        <target>একটি</target>
+      </trans-unit>
+      <trans-unit id="audio">
+        <source>audio</source>
+        <target>শব্দ</target>
+      </trans-unit>
+      <trans-unit id="calling...">
+        <source>calling...</source>
+        <target>কলিং ...</target>
+      </trans-unit>
+      <trans-unit id="hour">
+        <source>hour</source>
+        <target>ঘন্টা</target>
+      </trans-unit>
+      <trans-unit id="hours">
+        <source>hours</source>
+        <target>ঘন্টা</target>
+      </trans-unit>
+      <trans-unit id="image">
+        <source>image</source>
+        <target>ছবি</target>
+      </trans-unit>
+      <trans-unit id="is busy">
+        <source>is busy</source>
+        <target>এখন ব্যস্ত</target>
+      </trans-unit>
+      <trans-unit id="key">
+        <source>key</source>
+        <note>key</note>
+      </trans-unit>
+      <trans-unit id="location">
+        <source>location</source>
+        <target>অবস্থান</target>
+      </trans-unit>
+      <trans-unit id="members">
+        <source>members</source>
+        <target>সদস্য</target>
+      </trans-unit>
+      <trans-unit id="min">
+        <source>min</source>
+        <target>মিনিট</target>
+      </trans-unit>
+      <trans-unit id="mins">
+        <source>mins</source>
+        <target>মিনিট</target>
+      </trans-unit>
+      <trans-unit id="new name">
+        <source>Type a new name</source>
+        <target>নতুন নাম</target>
+      </trans-unit>
+      <trans-unit id="placeholder">
+        <source>placeholder</source>
+        <target>placeholder</target>
+      </trans-unit>
+      <trans-unit id="sec">
+        <source>sec</source>
+        <target>সেকেন্ড</target>
+      </trans-unit>
+      <trans-unit id="secs">
+        <source>secs</source>
+        <target>সেকেন্ড</target>
+      </trans-unit>
+      <trans-unit id="sticker">
+        <source>sticker</source>
+        <target>স্টিকার</target>
+      </trans-unit>
+      <trans-unit id="you've received a Location">
+        <source>you've received a Location</source>
+        <target>আপনি একটি অবস্থান পেয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="you've received a Sticker">
+        <source>you've received a Sticker</source>
+        <target>আপনি একটি স্টিকার পেয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="you've received an Audio">
+        <source>you've received an Audio</source>
+        <target>আপনি একটি অডিও পেয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="you've received an Image">
+        <source>you've received an Image</source>
+        <target>আপনি একটি ছবি পেয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="you've sent a Location">
+        <source>you've sent a Location</source>
+        <target>আপনি একটি অবস্থান পাঠিয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="you've sent a Sticker">
+        <source>you've sent a Sticker</source>
+        <target>আপনি একটি স্টিকার পাঠিয়েছেন.</target>
+      </trans-unit>
+      <trans-unit id="you've sent an Audio">
+        <source>you've sent an Audio</source>
+        <target>আপনি একটি অডিও পাঠিয়েছেন</target>
+      </trans-unit>
+      <trans-unit id="you've sent an Image">
+        <source>you've sent an Image</source>
+        <target>আপনি একটি ছবি পাঠিয়েছেন</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/AttachmentView/Base.lproj/ButtonCollectionCell.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="MAJ-eW-lze.text">
+        <source>Name</source>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "MAJ-eW-lze";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/AttachmentView/Base.lproj/ContactBlockAddView.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0QB-Gj-MrG.normalTitle">
+        <source>Skip </source>
+        <target>এড়িয়ে যান</target>
+      </trans-unit>
+      <trans-unit id="3eV-WX-Gcx.normalTitle">
+        <source>Add</source>
+        <target>যুক্ত</target>
+      </trans-unit>
+      <trans-unit id="8Mh-CD-sry.normalTitle">
+        <source>UnBlock</source>
+        <note>Class = "UIButton"; normalTitle = "UnBlock"; ObjectID = "8Mh-CD-sry";</note>
+      </trans-unit>
+      <trans-unit id="auI-oy-Ops.text">
+        <source>What do you want?</source>
+        <target>আপনি কী করতে চান?</target>
+      </trans-unit>
+      <trans-unit id="kbp-h8-SFH.normalTitle">
+        <source>Add</source>
+        <note>Class = "UIButton"; normalTitle = "Add"; ObjectID = "kbp-h8-SFH";</note>
+      </trans-unit>
+      <trans-unit id="mP2-tU-dv9.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "mP2-tU-dv9";</note>
+      </trans-unit>
+      <trans-unit id="wPJ-a7-xG3.normalTitle">
+        <source>Block</source>
+        <target>ব্লক</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/GGMessagesView/Base.lproj/GGInternetConnectionView.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="ahp-gB-92W.text">
+        <source>No Network Connection</source>
+        <target>ইন্টারনেট সংযোগ নেই</target>
+        <note>Class = "UILabel"; text = "No network connection"; ObjectID = "ahp-gB-92W";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/MediaMessageCellView/Base.lproj/ImageViewCell.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="vRM-rz-7vQ.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "vRM-rz-7vQ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/ProfileImageView/Base.lproj/ProfileImageView.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="G9x-zM-ift.text">
+        <source>Steve Jobs</source>
+        <note>Class = "UILabel"; text = "Steve Jobs"; ObjectID = "G9x-zM-ift";</note>
+      </trans-unit>
+      <trans-unit id="gwa-vD-EXI.accessibilityLabel">
+        <source>Update_Profile_Edit_Button</source>
+        <note>Class = "UIButton"; accessibilityLabel = "Update_Profile_Edit_Button"; ObjectID = "gwa-vD-EXI";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/TableCells/Base.lproj/ContactCommonCell.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="8me-9c-0ZM.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "8me-9c-0ZM";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/TableCells/Base.lproj/CountryCell.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="MsL-R2-dWo.text">
+        <source>Bangladesh</source>
+        <note>Class = "UILabel"; text = "Bangladesh"; ObjectID = "MsL-R2-dWo";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/TableCells/Base.lproj/EmptyDataCell.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="9Zx-5e-rLe.normalTitle">
+        <source>MAKE A CALL</source>
+        <target>কল করুন</target>
+        <note>Class = "UIButton"; normalTitle = "MAKE A CALL"; ObjectID = "9Zx-5e-rLe";</note>
+      </trans-unit>
+      <trans-unit id="Eux-Vc-lVK.text">
+        <source>Make a voice call with your friend its completely free</source>
+        <target>বন্ধুকে কল করুন সম্পূর্ণ বিনামূল্যে</target>
+        <note>Class = "UILabel"; text = "Make a voice call with your friend its completely free"; ObjectID = "Eux-Vc-lVK";</note>
+      </trans-unit>
+      <trans-unit id="dPb-3s-raQ.text">
+        <source>No Calls Yet</source>
+        <target>এখনো কোনো কল হয়নি</target>
+        <note>Class = "UILabel"; text = "No Calls Yet"; ObjectID = "dPb-3s-raQ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Connect/Views/TableCells/Base.lproj/ProfileSelectionCell.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="tNn-18-bBw.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tNn-18-bBw";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ConnectTests/Info.plist" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ConnectUITests/Info.plist" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GGShareExtension/Base.lproj/MainInterface.storyboard" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="MaK-o1-5Hk.text">
+        <source>To:</source>
+        <target>To:</target>
+        <note>Class = "UILabel"; text = "To:"; ObjectID = "MaK-o1-5Hk";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GGShareExtension/CustomView/Base.lproj/OverlayView.xib" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Dd6-Ko-krD.text">
+        <source>Sending...</source>
+        <target>Sending...</target>
+        <note>Class = "UILabel"; text = "Sending..."; ObjectID = "Dd6-Ko-krD";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GGShareExtension/Info.plist" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>GagaGugu</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GGShareExtension/Localizable.strings" source-language="en" datatype="plaintext" target-language="bn">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="key">
+        <source>key</source>
+        <note>key</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

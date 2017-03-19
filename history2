@@ -1,0 +1,32 @@
+import mechanize
+import cookielib
+from bs4 import BeautifulSoup as bs
+import html2text
+br = mechanize.Browser()
+cj = cookielib.LWPCookieJar()
+br.set_cookiejar(cj)
+br.set_handle_equiv(True)
+br.set_handle_gzip(True)
+br.set_handle_redirect(True)
+br.set_handle_referer(True)
+br.set_handle_robots(False)
+br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+br.addheaders = [('User-agent', 'Chrome')]
+br.open('https://bikroy.com/en/users/login')
+br.select_form(nr=0)
+br.form['account'] = 'hasibul.amin.hemel@gmail.com'
+br.form['password'] = 'hemel007'
+br.submit()
+
+
+bik = br.open('https://bikroy.com/en/post-ad/details?type=for_sale&category=375&location=1255').read()
+print(bik)
+soup = bs(bik)
+type(soup)
+print soup.prettify()
+opbody = soup.find('select', {'class': 'ui-select', 'id':'fields-item_type-value'})
+op = opbody.find_all('option')
+
+for i in op:
+    print i.get_text()
+
